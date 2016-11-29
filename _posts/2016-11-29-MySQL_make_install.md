@@ -55,19 +55,21 @@ $ cmake .
 ```
 $ rm CMakeCache.txt
 ```
+
 4. 上述步骤通过之后，进行 make 。
 ```
 $ make&&make install
 ```
-  OK，这里执行完毕，就已经离成功很近了，这时候我们仅仅需要初始化数据库，就可以使用MySQL数据库了，这里有两种情况
+
+OK，这里执行完毕，就已经离成功很近了，这时候我们仅仅需要初始化数据库，就可以使用MySQL数据库了，这里有两种情况
 1. 如果源码包是MySQL官方版本，可以直接进行初始化。
 2. 如果Percona版本的源码包则需要额外安装一下东西。
+
 ```
 $ yum install libaio numactl -y
 ```
 
 5. 初始化
-
 ```
 $ cd /opt/app/mysql
 

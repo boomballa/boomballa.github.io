@@ -52,11 +52,13 @@ $ cmake .
 ```
 
 如果编译出错，需要重新编译，可以尝试
+
 ```
 $ rm CMakeCache.txt
 ```
 
 4. 上述步骤通过之后，进行 make 。
+
 ```
 $ make&&make install
 ```
@@ -70,6 +72,7 @@ $ yum install libaio numactl -y
 ```
 
 5. 初始化
+
 ```
 $ cd /opt/app/mysql
 

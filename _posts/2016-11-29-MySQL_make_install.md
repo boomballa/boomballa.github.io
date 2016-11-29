@@ -22,9 +22,9 @@ tags: MySQL，编译安装
 1. 下载and解压缩
   本文以percona-server-5.6.29版本源码包为例。下载源码包我不赘述了，[mysql](http://www.mysql.com/)或者[percona](https://www.percona.com/)去下载。
 
-  ```
+```
 $ tar -zxvf percona-server-5.6.29-76.2.tar.gz -C /path-you-want/
- ```
+```
 
 2. 安装必要软件包
 

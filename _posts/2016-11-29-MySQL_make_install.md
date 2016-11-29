@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译安装SQL 5.6"
+title: "编译安装MySQL 5.6"
 date: 2016-11-29
 tags: MySQL，编译安装 
 ---

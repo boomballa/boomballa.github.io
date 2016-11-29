@@ -87,4 +87,4 @@ $ mkdir -p {data,logs/tmp} && chown -R mysql.mysql {data,logs,tmp}
 $ /etc/init.d/mysql start
 ```
 
-至此，MySQL编译安装完成，有问题欢迎随时沟通。
+至此，MySQL编译安装完成，有问题欢迎一起探讨。

@@ -7,7 +7,7 @@ tags: MySQL
 
   第一次到自己的地盘写东西，感觉还真的有些紧张呢，进来主页空落落的感觉有些违和，之前在简介中也说过要把自己总结过的东西分享出来，虽说不一定很干。但是基本上都是自己在这条路上一步一步走过来的脚印，丰富Blog的同时，也算是对自己日常技术生活的归纳总结吧。 
 
-  值得一说的是，我这个Blog是使用 Jekyll 搭建的，搭建过程参考了 @[潘伯信](http://baixin.io)在简书上的一篇文章 [Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)，讲解的很详细，最后就是统计网站访问统计有点小问题，我们一同解决了，当然还有@[老司机](http://johnscott1989.cc/)的帮助，没有错，他的blog是HEXO搭建的。现在柏信的 [github](https://github.com/) 代码应该已经更新了，所以小伙伴们有兴趣的都可以尝试一下。
+  值得一说的是，我这个Blog是使用 Jekyll 搭建的，搭建过程参考了 @[潘伯信](http://baixin.io)在简书上的一篇文章 [Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)，讲解的很详细，最后就是统计网站访问统计有点小问题，通过研究已经解决了，当然还有@[老司机](http://johnscott1989.cc/)的帮助，没有错，他的blog是HEXO搭建的。现在柏信的 [github](https://github.com/) 代码应该已经更新了，所以小伙伴们有兴趣的都可以尝试一下。
 
 
 ### 简介
@@ -87,4 +87,4 @@ $ mkdir -p {data,logs/tmp} && chown -R mysql.mysql {data,logs,tmp}
 $ /etc/init.d/mysql start
 ```
 
-至此，MySQL编译安装完成，有问题欢迎随时沟通。
+至此，MySQL编译安装完成，有问题欢迎一起探讨。

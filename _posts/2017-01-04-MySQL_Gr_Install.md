@@ -26,7 +26,8 @@ tags: MySQL,Group_replication
 **1. 环境介绍**
 
 basedir = /usr/local/mysql 
-(PS: 这点还是要吐槽一下的，mysql官方basedir如果不在这个目录的话，mysql.server也不好使，这个实验也不成功，我们还是勉强先放在这)
+
+(PS: 这点还是忍不住要吐槽一下，mysql官方basedir如果不在这个目录的话，mysql.server也不好使，这个实验也不成功，我们还是勉强先放在这)
 
 | 端口号 | 数据及日志目录 | Group_replication 通讯端口 |
 | :-------------: |:-------------:| :--------: |
@@ -218,6 +219,14 @@ loose-group_replication_single_primary_mode=off
 loose-group_replication_enforce_update_everywhere_checks=on
 ```
 
+这离说一下参数中带有loose-xxx-xxx ， 这个我也是头一次见，我们来看一下它的解释：
+
+
+> **注意**
+
+> 用于上面group_replication变量的松散前缀指示服务器继续启动，如果在服务器启动时尚未加载组复制插件。
+
+
 **4.启动Group_replication第一个节点：** 
 
 ①、初始化3306实例：
@@ -242,6 +251,13 @@ mysql> SET SQL_LOG_BIN=1;
 mysql> CHANGE MASTER TO MASTER_USER='rpl_user', MASTER_PASSWORD='rpl_pass' FOR CHANNEL 'group_replication_recovery'; 
 ```
 
+> 注意
+
+> 这里 SET SQL_LOG_BIN=0; 禁用二进制日志记录，创建具有正确权限的用户，并保存group_replication_recovery通道的凭据。
+
+> 上面看到的最后一行配置此服务器使用给定凭据下次需要从另一个成员恢复其状态。分布式恢复是加入组的服务器执行的第一步。如果未正确设置这些凭据，则服务器无法运行恢复协议，并且最终无法加入组。
+
+
 ④、加载 group_replication的plugin：
 
 ```
@@ -252,7 +268,7 @@ mysql> SHOW PLUGINS;
 +----------------------------+----------+--------------------+----------------------+---------+
 | binlog                     | ACTIVE   | STORAGE ENGINE     | NULL                 | GPL     |
 | mysql_native_password      | ACTIVE   | AUTHENTICATION     | NULL                 | GPL     |
-|... ... ...                                                                                  |
+|...                         | ...      | ...                |...                   | ...     |
 | group_replication          | ACTIVE   | GROUP REPLICATION  | group_replication.so | GPL     |
 +----------------------------+----------+--------------------+----------------------+---------+
 ```
@@ -362,4 +378,4 @@ id      name
 <img src="/images/posts/mysql_gr_install/prefect.jpg" height="296" width="300">
 
 ### 结束语
-  好啦，安装部署的部分就讲到这里了，博主这几天将继续对Group_replication进行研究，近期还会有关于此功能的文章出现，好啦，下班吃饭。
+  好啦，安装部署的部分就讲到这里了，博主这几天将继续对Group_replication进行研究，近期还会有关于此功能的文章出现，好啦，下班回家吃饭。

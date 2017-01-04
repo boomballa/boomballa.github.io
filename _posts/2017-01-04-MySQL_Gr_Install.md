@@ -304,14 +304,14 @@ mysql> insert into boomballa(id,name) values(2,'myblog');
 
 **5. 启动Group_replication第二个节点：**
 
- 初始化并启动实例：
+①、初始化并启动实例：
 
 ```
 shell> /usr/local/mysql/bin/mysqld --defaults-file=/data/mysql/mysql_3307/my3307.cnf --initialize-insecure
 shell> /usr/local/mysql/bin/mysqld --defaults-file=/data/mysql/mysql_3307/my3307.cnf &
 ```
 
-安装插件并启动Group_replication:
+②、安装插件并启动Group_replication:
 
 ```
 mysql> SET SQL_LOG_BIN=0;

@@ -227,6 +227,8 @@ loose-group_replication_enforce_update_everywhere_checks=on
 > 用于上面group_replication变量的松散前缀指示服务器继续启动，如果在服务器启动时尚未加载组复制插件。
 
 
+
+
 **4.启动Group_replication第一个节点：** 
 
 ①、初始化3306实例：

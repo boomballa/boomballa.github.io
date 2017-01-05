@@ -222,7 +222,7 @@ loose-group_replication_enforce_update_everywhere_checks=on
 这离说一下参数中带有loose-xxx-xxx ， 这个我也是头一次见，我们来看一下它的解释：
 
 
-> **注意**
+> 注意
 
 > 用于上面group_replication变量的松散前缀指示服务器继续启动，如果在服务器启动时尚未加载组复制插件。
 

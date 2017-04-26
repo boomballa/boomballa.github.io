@@ -7,16 +7,21 @@ tags: MySQL,Shell,Python
 
 ### 开场白
 
+
 	好久没来啦，年后一直在处理一下琐碎的问题，还有挺多新项目上线，所以一直木有时间更新，有点小冷清了。 
 
+	
 ### 情况介绍	
+
 
 今天来分享一个，我从事MySQL以来，经常遇见的一个问题，就是关于MySQL数据库中大表的数据归档。
 有时候我们库中会存在一些类似于日志表、流水表，还有些表中的数据时效性过了就会成为冷数据，那么这些表中的数据大多都是冷数据，有些数据甚至过后没有查一下的余地。
 但是它们就在真真实实的占用着数据库的磁盘空间。 
 如鲠在喉啊，有木有？ 删又不能删（开发有时候说有可能还会查），Truncate又不能Truncate。
 
+
 <img src="/images/posts/mysql_data_archive/ganga.jpg" height="222" width="237">
+
 	
 那今天我就介绍下我针对这种情况所采取的措施。 前方高能预警，请自带安全帽进入施工现场。
 
@@ -42,7 +47,7 @@ tags: MySQL,Shell,Python
 	
 ```
 mysql> GRANT CREATE, DROP, PROCESS, ALTER, SUPER, REPLICATION SLAVE, TRIGGER ON *.* TO 'restore'@'172.16.3.88' IDENTIFIED BY PASSWORD '*D83D4673BB4CB13F4AE6255A00A71AA1A3CFE6B6';
-mysql>GRANT SELECT, INSERT, UPDATE, DELETE ON `institute`.* TO 'restore'@'172.16.3.88'
+mysql> GRANT SELECT, INSERT, UPDATE, DELETE ON `institute`.* TO 'restore'@'172.16.3.88'
 ```
 **备注：这里提醒一下，开权限尽量开按IP地址开吗，脚本连数据库，虽说在本地也要按照IP去连，因为如果权限开到 'restore'@'localhost' ，连接数据库时会检查soscket地址，还需要另外做软链，很麻烦就对了。 如果服务器上面跑得不是一个实例，真的很难过。 总之绕开就好。 **
 	

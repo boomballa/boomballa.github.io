@@ -9,7 +9,7 @@ tags: Linux,Shell
 
  好吧，如果觉得前几篇都是MySQL有点枯燥的话，这把我们来点轻松的，摇身一变为猥琐小王子（手动猥琐脸），让我来介绍一个**shell**脚本加密的小**Tips**。 
 
- <img src="/images/posts/shell/shell.jpg" height="375" width="500">
+ <img src="/images/posts/bash_shell_encrypt/shell.jpg" height="375" width="500">
 
 
 ### 应用场景介绍

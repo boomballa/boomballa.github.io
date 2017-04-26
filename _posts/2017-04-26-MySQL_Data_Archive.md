@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 历史数据归档及表空间整理"
+title: "MySQL历史数据归档及表空间整理"
 date: 2017-04-26
 tags: MySQL,Python,Shell,Percona-tookit
 ---

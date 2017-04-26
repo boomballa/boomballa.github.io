@@ -13,35 +13,35 @@ tags: MySQL,Shell,Python
 	今天来分享一个，我从事MySQL以来，经常遇见的一个问题，就是关于MySQL数据库中大表的数据归档。 有时候我们库中会存在一些类似于日志表、流水表，还有些表中的数据时效性过了就会成为冷数据，那么这些表中的数据大多都是冷数据，有些数据甚至过后没有查一下的余地。但是它们就在真真实实的占用着数据库的磁盘空间。 
 	如鲠在喉啊，有木有？ 删又不能删（开发有时候说有可能还会查），Truncate又不能Truncate。
 
-    <img src="/images/posts/mysql_data_archive/ganga.jpg" height="222" width="237">
+<img src="/images/posts/mysql_data_archive/ganga.jpg" height="222" width="237">
 	
     那今天我就介绍下我针对这种情况所采取的措施。 前方高能预警，请自带安全帽进入施工现场。
 
 ### 场景及准备工作
 
-	数据库IP：172.16.3.88 
-	数据库名称：institute
-	需要归档的表为： call_record , net_flow , sms_record
+数据库IP：172.16.3.88 
+数据库名称：institute
+需要归档的表为： call_record , net_flow , sms_record
 	
-	**1.归档表的规则要提前和负责项目的开发人员沟通，确定热数据的时间范围，我这边的规则是10分钟以前的都可以归档。**
-	**2.既然是按时间归档，那么call_record , net_flow , sms_record三张表都要有create_time字段并且要有索引。**
-	**3.call_record , net_flow , sms_record三张表都要有id自增主键。（虽然像是废话，但是还要说一下，必须要有）**
-	**4.针对call_record , net_flow , sms_record 三张表，按照原表结构创建三张历史表 call_record_history , net_flow_history , sms_record_history 。**
-	**5.需要安装的工具： [percona-toolkit](https://www.percona.com/downloads/percona-toolkit/LATEST/)  [MySQL-python](https://pypi.python.org/pypi/MySQL-python/1.2.5) （版本自己控制就好）**
-	**6.创建归档数据用户restore，密码：pwd4mysql**
+**1.归档表的规则要提前和负责项目的开发人员沟通，确定热数据的时间范围，我这边的规则是10分钟以前的都可以归档。**
+**2.既然是按时间归档，那么call_record , net_flow , sms_record三张表都要有create_time字段并且要有索引。**
+**3.call_record , net_flow , sms_record三张表都要有id自增主键。（虽然像是废话，但是还要说一下，必须要有）**
+**4.针对call_record , net_flow , sms_record 三张表，按照原表结构创建三张历史表 call_record_history , net_flow_history , sms_record_history 。**
+**5.需要安装的工具： [percona-toolkit](https://www.percona.com/downloads/percona-toolkit/LATEST/)  [MySQL-python](https://pypi.python.org/pypi/MySQL-python/1.2.5) （版本自己控制就好）**
+**6.创建归档数据用户restore，密码：pwd4mysql**
 	
-	```
-	mysql> GRANT CREATE, DROP, PROCESS, ALTER, SUPER, REPLICATION SLAVE, TRIGGER ON *.* TO 'restore'@'172.16.3.88' IDENTIFIED BY PASSWORD '*D83D4673BB4CB13F4AE6255A00A71AA1A3CFE6B6';
-	mysql>GRANT SELECT, INSERT, UPDATE, DELETE ON `institute`.* TO 'restore'@'172.16.3.88'
-	```
-	**备注：这里提醒一下，开权限尽量开按IP地址开吗，脚本连数据库，虽说在本地也要按照IP去连，因为如果权限开到 'restore'@'localhost' ，连接数据库时会检查soscket地址，还需要另外做软链，很麻烦就对了。 如果服务器上面跑得不是一个实例，真的很难过。 总之绕开就好。 **
+```
+mysql> GRANT CREATE, DROP, PROCESS, ALTER, SUPER, REPLICATION SLAVE, TRIGGER ON *.* TO 'restore'@'172.16.3.88' IDENTIFIED BY PASSWORD '*D83D4673BB4CB13F4AE6255A00A71AA1A3CFE6B6';
+mysql>GRANT SELECT, INSERT, UPDATE, DELETE ON `institute`.* TO 'restore'@'172.16.3.88'
+```
+**备注：这里提醒一下，开权限尽量开按IP地址开吗，脚本连数据库，虽说在本地也要按照IP去连，因为如果权限开到 'restore'@'localhost' ，连接数据库时会检查soscket地址，还需要另外做软链，很麻烦就对了。 如果服务器上面跑得不是一个实例，真的很难过。 总之绕开就好。 **
 	
 	
 ### 正文
     
-	**一、首先是针对每张表用python脚本，查出10分钟前最小id，最大id。  然后取刚刚查出来的最小id和最大id的所有数据每次1000条，插入本库历史表。**
+** 一、首先是针对每张表用python脚本，查出10分钟前最小id，最大id。  然后取刚刚查出来的最小id和最大id的所有数据每次1000条，插入本库历史表。**
 	
-	**分享一下其中一张表的脚本，剩下两张同理**
+** 分享一下其中一张表的脚本，剩下两张同理 **
 	
 ```
 #!/usr/bin/python

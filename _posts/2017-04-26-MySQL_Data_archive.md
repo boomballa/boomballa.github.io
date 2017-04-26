@@ -10,24 +10,37 @@ tags: MySQL,Shell,Python
 
 ### 情况介绍	
 	
-	今天来分享一个，我从事MySQL以来，经常遇见的一个问题，就是关于MySQL数据库中大表的数据归档。 有时候我们库中会存在一些类似于日志表、流水表，还有些表中的数据时效性过了就会成为冷数据，那么这些表中的数据大多都是冷数据，有些数据甚至过后没有查一下的余地。但是它们就在真真实实的占用着数据库的磁盘空间。 
-	如鲠在喉啊，有木有？ 删又不能删（开发有时候说有可能还会查），Truncate又不能Truncate。
+今天来分享一个，我从事MySQL以来，经常遇见的一个问题，就是关于MySQL数据库中大表的数据归档。
+
+有时候我们库中会存在一些类似于日志表、流水表，还有些表中的数据时效性过了就会成为冷数据，那么这些表中的数据大多都是冷数据，有些数据甚至过后没有查一下的余地。
+
+但是它们就在真真实实的占用着数据库的磁盘空间。 
+
+如鲠在喉啊，有木有？ 删又不能删（开发有时候说有可能还会查），Truncate又不能Truncate。
 
 <img src="/images/posts/mysql_data_archive/ganga.jpg" height="222" width="237">
+
 	
     那今天我就介绍下我针对这种情况所采取的措施。 前方高能预警，请自带安全帽进入施工现场。
 
 ### 场景及准备工作
 
-数据库IP：172.16.3.88 
-数据库名称：institute
-需要归档的表为： call_record , net_flow , sms_record
+**数据库IP：172.16.3.88**
+
+**数据库名称：institute**
+
+**需要归档的表为： call_record , net_flow , sms_record**
 	
 **1.归档表的规则要提前和负责项目的开发人员沟通，确定热数据的时间范围，我这边的规则是10分钟以前的都可以归档。**
+
 **2.既然是按时间归档，那么call_record , net_flow , sms_record三张表都要有create_time字段并且要有索引。**
+
 **3.call_record , net_flow , sms_record三张表都要有id自增主键。（虽然像是废话，但是还要说一下，必须要有）**
+
 **4.针对call_record , net_flow , sms_record 三张表，按照原表结构创建三张历史表 call_record_history , net_flow_history , sms_record_history 。**
+
 **5.需要安装的工具： [percona-toolkit](https://www.percona.com/downloads/percona-toolkit/LATEST/)  [MySQL-python](https://pypi.python.org/pypi/MySQL-python/1.2.5) （版本自己控制就好）**
+
 **6.创建归档数据用户restore，密码：pwd4mysql**
 	
 ```

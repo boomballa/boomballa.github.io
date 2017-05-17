@@ -1,4 +1,4 @@
-### Boomballa    
+# Boomballa    
 此博客是参考[leopard](http://baixin.io)的博客制作的。
 
 ### 使用手册

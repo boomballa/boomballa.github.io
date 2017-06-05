@@ -2,7 +2,7 @@
 layout: post
 title: "MySQL Group Replication的安装部署"
 date: 2017-01-04
-tags: MySQL,Group_replication 
+tags: MySQL
 ---
 
 ### 开场白

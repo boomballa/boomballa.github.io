@@ -41,7 +41,7 @@ tags:
 6.搭建TokuDB历史库(172.16.3.188) ，这个自己选择，可以不搭建。  
 7.主库和历史库创建归档数据用户restore，密码：pwd4mysql    
     
-```
+```mysql
 mysql> GRANT CREATE, DROP, PROCESS, ALTER, SUPER, REPLICATION SLAVE, TRIGGER ON *.* TO 'restore'@'172.16.3.%' IDENTIFIED BY PASSWORD '*D83D4673BB4CB13F4AE6255A00A71AA1A3CFE6B6';
 mysql> GRANT SELECT, INSERT, UPDATE, DELETE ON `institute`.* TO 'restore'@'172.16.3.%';
 ```
@@ -56,7 +56,7 @@ mysql> GRANT SELECT, INSERT, UPDATE, DELETE ON `institute`.* TO 'restore'@'172.1
 	
 **分享一下其中一张表的脚本，剩下两张同理。**
 	
-```
+```python
 #!/usr/bin/python
 #encoding=utf-8
 import sys,time
@@ -153,7 +153,7 @@ if __name__ == '__main__':
   以上步骤的脚本是处理表call_record的,net_flow和sms_record表同理，再编辑出两个脚本，下一步就是关键的整理表，那么我问题来了，为什么要整理表呢？    
   是因为原表删除过数据以后，原来数据的表空间依然保留，delete的操作只是在行数据上打上了delete的标签，并没有真正意义上删除。整理表大家都会：
 
-```
+```mysql
 mysql> alter table call_record engiine='innodb';
 mysql> alter table net_flow engiine='innodb';
 mysql> alter table sms_record engiine='innodb';
@@ -182,7 +182,7 @@ mysql> alter table sms_record engiine='innodb';
  
 **整理后的shell脚本如下，我自己加入了邮件设置，这个大家自己选择性的去配置，以下仅供大家参考：**    
 
-```
+```shell
 #!/bin/bash
 to=songpeng@xxx.com
 today=`date +%Y-%m-%d`

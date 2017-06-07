@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MySQL历史数据归档及表空间整理"
-subtitle:   "Hello World, Hello Blog"
+subtitle:   "MySQL historical data archiving and table space finishing"
 date:       2017-04-26 00:17:03
 author:     "Boomballa"
 header-img: "img/home-bg.jpg"

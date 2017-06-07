@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MySQL Group Replication的安装部署"
-subtitle:   "Hello World, Hello Blog"
+subtitle:   "MySQL Group Replication installation deployment"
 date:       2016-01-04 22:27:00
 author:     "Boomballa"
 header-img: "img/home-bg.jpg"

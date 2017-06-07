@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Shell脚本加密"
-subtitle:   "Shell script encryption"
+subtitle:   "Shell Script Encryption"
 date:       2016-12-02 23:06:00
 author:     "Boomballa"
 header-img: "img/home-bg.jpg"

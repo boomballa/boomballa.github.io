@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MySQL事务隔离级别详解"
-subtitle:   "MySQL transaction isolation level is explained in detail"
+subtitle:   "MySQL Transaction Isolation Level Is Explained In Detail"
 date:       2016-12-01 00:47:02
 author:     "Boomballa"
 header-img: "img/home-bg.jpg"

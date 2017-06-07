@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "编译安装MySQL 5.6"
-subtitle:   "Install MySQL 5.6 with compilation"
+subtitle:   "Install MySQL 5.6 With Compilation"
 date:       2016-11-29 01:27:00
 author:     "Boomballa"
 header-img: "img/home-bg.jpg"

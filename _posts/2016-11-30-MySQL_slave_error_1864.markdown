@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MySQL同步故障处理(Last_Error: 1864)"
-subtitle:   "MySQL sync troubleshooting (Last_Error: 1864)"
+subtitle:   "MySQL Sync Troubleshooting (Last_Error: 1864)"
 date:       2016-11-30 22:57:07
 author:     "Boomballa"
 header-img: "img/home-bg.jpg"

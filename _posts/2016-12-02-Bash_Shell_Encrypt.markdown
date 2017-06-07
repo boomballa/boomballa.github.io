@@ -1,8 +1,14 @@
 ---
-layout: post
-title: "Shell脚本加密"
-date: 2016-12-02
-tags: Shell 
+layout:     post
+title:      "Shell脚本加密"
+subtitle:   "Hello World, Hello Blog"
+date:       2016-12-02 23:06:00
+author:     "Boomballa"
+header-img: "img/home-bg.jpg"
+catalog:    true
+tags:
+    - Shell
+    - MySQL
 ---
 
 ### 开场白

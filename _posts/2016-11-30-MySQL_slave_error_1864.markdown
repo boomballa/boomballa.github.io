@@ -1,8 +1,13 @@
 ---
-layout: post
-title: "MySQL同步故障处理(Last_Error: 1864)"
-date: 2016-11-30
-tags: MySQL 
+layout:     post
+title:      "MySQL同步故障处理(Last_Error: 1864)"
+subtitle:   "Hello World, Hello Blog"
+date:       2016-11-30 22:57:07
+author:     "Boomballa"
+header-img: "img/home-bg.jpg"
+catalog:    fasle
+tags:
+    - MySQL
 ---
 
   之前朋友给我提供了一个主从同步故障处理的案例，在此share给大家，希望能帮到一些有需要的人。

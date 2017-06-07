@@ -1,9 +1,15 @@
 ---
-layout: post
-title: "MySQL事务隔离级别详解"
-date: 2016-12-01
-tags: MySQL 
+layout:     post
+title:      "MySQL事务隔离级别详解"
+subtitle:   "Hello World, Hello Blog"
+date:       2016-12-01 00:47:02
+author:     "Boomballa"
+header-img: "img/home-bg.jpg"
+catalog:    true
+tags:
+    - MySQL
 ---
+
 
 ### 前言
   

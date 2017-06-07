@@ -1,4 +1,5 @@
 
+> Efforts to learn, adhere to exercise,How far the destination of the heart, how far can go    
 
 > I'm  an Operation & DBA.  May also become a Developer. 
 
@@ -11,6 +12,6 @@ I'm  an Operations & [DBA](https://en.wikipedia.org/wiki/DBA).I personally prefe
 Some works and open source software projects,(👉 see [Github](https://github.com/boomballa)).
 
 
-- Yes,i am training!
+- Yes,i am training.
 
 <img src="/img/about-me-training.jpg" height="768" width="1024">

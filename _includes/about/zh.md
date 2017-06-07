@@ -1,5 +1,5 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 努力学习，坚持锻炼，  
+> 心里的目的地有多远，就能走多远
 
 Hey，我是宋鹏，摩羯座，技术宅，非典型北漂，火影爱好者。多出没于[博客](https://boomballa.com)、[微博](weibo.com/314888685)、[知乎](https://www.zhihu.com/people/boomballa0418/activities)、[Twitter](https://twitter.com/Boomballa_/)、[Github](https://github.com/boomballa) 等地带，目前正在修行中。
 

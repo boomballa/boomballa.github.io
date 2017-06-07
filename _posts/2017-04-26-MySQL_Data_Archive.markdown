@@ -9,6 +9,7 @@ catalog:    true
 tags:
     - MySQL
     - Python
+    - Shell
     - Percona-toolkit
 ---
 

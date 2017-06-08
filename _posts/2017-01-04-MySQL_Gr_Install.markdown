@@ -46,7 +46,7 @@ basedir = /usr/local/mysql
 
 ①、下载and解压缩，并把mysql放到指定地方（标准目录： /usr/local/mysql）
 
-```
+```shell
 shell> cd /opt/soft
 shell> wget http://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.17-linux-glibc2.5-x86_64.tar.gz 
 shell> tar -zxvf mysql-5.7.17-linux-glibc2.5-x86_64.tar.gz -C /opt/app
@@ -56,7 +56,7 @@ shell> ln -s /opt/app/mysql /usr/local/mysql
 
 ②、 创建数据库需要的数据、日志和临时目录并赋权：
  
-```
+```shell
 shell> mkdir -p /data/mysql/{mysql_3306,mysql_3307,mysql_3308}/{data,logs,tmp}
 shell> chown -R mysql.mysql /data/mysql/
 ```
@@ -74,7 +74,7 @@ shell> chown -R mysql.mysql /data/mysql/
 
 3306端口配置文件详情：
 
-```
+```shell
 shell> cat /data/mysql/mysql_3306/my3306.cnf 
 
 [client]
@@ -204,7 +204,7 @@ innodb_flush_method = O_DIRECT
 
 其中比较重要的地方，也是安装**Group_replication**必须要有的配置项，需要注意一下：
 
-```
+```shell
 #group replication
 server_id=1013306
 gtid_mode=ON
@@ -240,19 +240,19 @@ loose-group_replication_enforce_update_everywhere_checks=on
 
 ①、初始化3306实例：
 
-```
+```shell
 shell>  /usr/local/mysql/bin/mysqld --defaults-file=/data/mysql/mysql_3306/my3306.cnf --initialize-insecure
 ```
 
 ②、启动3306实例：
 
-```
+```shell
 shell> /usr/local/mysql/bin/mysqld --defaults-file=/data/mysql/mysql_3306/my3306.cnf &
 ```
  
 ③、进入mysql进行change操作：
 
-```
+```sql
 mysql> SET SQL_LOG_BIN=0;
 mysql> CREATE USER rpl_user@'%';
 mysql> GRANT REPLICATION SLAVE ON *.* TO rpl_user@'%' IDENTIFIED BY 'rpl_pass';
@@ -269,7 +269,7 @@ mysql> CHANGE MASTER TO MASTER_USER='rpl_user', MASTER_PASSWORD='rpl_pass' FOR C
 
 ④、加载 group_replication的plugin：
 
-```
+```sql
 mysql> INSTALL PLUGIN group_replication SONAME 'group_replication.so'; 
 mysql> SHOW PLUGINS;
 +----------------------------+----------+--------------------+----------------------+---------+
@@ -284,14 +284,14 @@ mysql> SHOW PLUGINS;
 
 ⑤、启动第一个节点的Group_replication：
 
-```
+```sql
 mysql> SET GLOBAL group_replication_bootstrap_group=ON;     #只在第一个节点使用
 mysql> START GROUP_REPLICATION;
 ```
 
 ⑥、确认节点加入情况：
 
-```
+```sql
 mysql> SELECT * FROM performance_schema.replication_group_members;
 +---------------------------+--------------------------------------+-----------------------+-------------+--------------+
 | CHANNEL_NAME              | MEMBER_ID                            | MEMBER_HOST           | MEMBER_PORT | MEMBER_STATE |
@@ -303,7 +303,7 @@ mysql> SELECT * FROM performance_schema.replication_group_members;
 
 ⑦、创建测试数据：
 
-```
+```sql
 mysql> create database boom;
 mysql> use boom;
 mysql> create table boomballa(id int not null,name varchar(32),primary key(id));
@@ -315,14 +315,14 @@ mysql> insert into boomballa(id,name) values(2,'myblog');
 
 ①、初始化并启动实例：
 
-```
+```sql
 shell> /usr/local/mysql/bin/mysqld --defaults-file=/data/mysql/mysql_3307/my3307.cnf --initialize-insecure
 shell> /usr/local/mysql/bin/mysqld --defaults-file=/data/mysql/mysql_3307/my3307.cnf &
 ```
 
 ②、安装插件并启动Group_replication:
 
-```
+```sql
 mysql> SET SQL_LOG_BIN=0;
 mysql> CREATE USER rpl_user@'%';
 mysql> GRANT REPLICATION SLAVE ON *.* TO rpl_user@'%' IDENTIFIED BY 'rpl_pass';
@@ -342,7 +342,7 @@ mysql> SELECT * FROM performance_schema.replication_group_members;
 
 **6. 第三节点安装配置略过了，安装好了以后的状态应该是(三节点上查询结果都是如此)：**
 
-```
+```sql
 mysql> SELECT * FROM performance_schema.replication_group_members;
 +---------------------------+--------------------------------------+-----------------------+-------------+--------------+
 | CHANNEL_NAME              | MEMBER_ID                            | MEMBER_HOST           | MEMBER_PORT | MEMBER_STATE |
@@ -367,7 +367,7 @@ mysql> select * from boomballa;
 
 确认一下：
 
-```
+```shell
 [root@localhost ~]# echo "select * from boom.boomballa;"|/usr/local/mysql/bin/mysql -S /tmp/mysql3306.sock 
 id      name
 1       boomballa.top

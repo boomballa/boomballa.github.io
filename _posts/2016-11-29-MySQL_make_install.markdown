@@ -28,19 +28,19 @@ tags:
 1. 下载and解压缩
   本文以percona-server-5.6.29版本源码包为例。下载源码包我不赘述了，[mysql](http://www.mysql.com/)或者[percona](https://www.percona.com/)去下载。
 
-```
+```shell
 $ tar -zxvf percona-server-5.6.29-76.2.tar.gz -C /path-you-want/
 ```
 
 2. 安装必要软件包
 
-```
+```shell
 $ yum -y install  gcc gcc-c++ gcc-g77 autoconf automake zlib* fiex* libxml* libmcrypt* libtool-ltdl-devel* make cmake readline-devel ncurses ncurses-devel openssl openssl-devel
 ```
 
 3. 进入主目录 进行编译
 
-```
+```shell
 $ cmake .
 -DCMAKE_INSTALL_PREFIX=/opt/app/mysql \
 -DMYSQL_DATADIR=/opt/app/mysql/data \
@@ -59,13 +59,13 @@ $ cmake .
 
 如果编译出错，需要重新编译，可以尝试
 
-```
+```shell
 $ rm CMakeCache.txt
 ```
 
 4. 上述步骤通过之后，进行 make 。
 
-```
+```shell
 $ make&&make install
 ```
 
@@ -74,13 +74,13 @@ OK，这里执行完毕，就已经离成功很近了，这时候我们仅仅需
 1. 如果源码包是MySQL官方版本，可以直接进行初始化。
 2. 如果Percona版本的源码包则需要额外安装一下东西。
 
-```
+```shell
 $ yum install libaio numactl -y
 ```
 
 5. 初始化
 
-```
+```shell
 $ cd /opt/app/mysql
 
 $ ./scripts/mysql_install_db --user=mysql --defaults-file=/opt/app/mysql/my.cnf --basedir=/opt/app/mysql --datadir=/opt/app/mysql/data --explicit_defaults_for_timestamp
@@ -89,7 +89,7 @@ $ mkdir -p {data,logs/tmp} && chown -R mysql.mysql {data,logs,tmp}
 ```
 
 ### 启动数据库
-```
+```shell
 $ /etc/init.d/mysql start
 ```
 

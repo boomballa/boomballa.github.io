@@ -31,7 +31,7 @@ tags:
 
 **link_db.sh**脚本样例如下 ：
 
-```
+```shell
 #!/bin/bash
 comparepass='0932313'
 read -s -p "Please enter the cipher:" importpass
@@ -46,14 +46,14 @@ exit 0
 
 脚本执行起来是酱婶儿的：
 
-```
+```shell
 $  sh link_db.sh  
 Please enter the cipher:
 ```
 
 也就是和脚本进入问答环节，只有答对了"芝麻开门"（正确的口令）才可以连接进数据库（也就是被正确的执行），这时候只需输入上面我们设置的口令 **“0932313”**，即可执行数据库登入：
 
-```
+```shell
 $ sh link_db.sh 
 Please enter the cipher:Warning: 
 Using a password on the command line interface can be insecure.
@@ -81,7 +81,7 @@ mysql>
 
 1.下载、安装
   
-```
+```shell
 $ wget http://www.datsi.fi.upm.es/~frosal/sources/shc-3.8.9b.tgz
 $ tar xvf shc-3.8.9b.tgz
 $ cd shc-3.8.9b
@@ -93,7 +93,7 @@ $ make install 
 
 安装后shc会放在/usr/local/bin/目录下。如想方便请做软链。
 
-```
+```shell
 $ ln –s /usr/local/bin/shc /usr/bin/shc
 ```
 
@@ -101,13 +101,13 @@ $ ln –s /usr/local/bin/shc /usr/bin/shc
 
 **样例**
 
-```
+```shell
 $ shc -v -r -T  -f /path/to/script/link_db.sh
 ```
 
 **加密**
 
-```
+```shell
 $ shc -v -r -T  -f link_db.sh
 shc shll=bash
 shc [-i]=-c
@@ -127,7 +127,7 @@ shc: chmod go-r link_db.sh.x
 
 可随意把**link_db.sh.x**改成别的你想要的名字，例如 **linkdb**， 放入 **/usr/bin/**下面，试试直接输入**linkdb**然后执行：
 
-```
+```shell
 $  linkdb 
 Please enter the cipher:
 ```

@@ -14,7 +14,7 @@ tags:
 
 **MySQL slave同步报错：**
 
-```
+```sql
 $ Last_Error:1864
   Last_Error: Cannot schedule event Rows_query, relay-log name ./db-s18-relay-bin.000448, position 419156572 to Worker thread because its size 18483519 exceeds 16777216 of slave_pending_jobs_size_max.
 ```
@@ -23,7 +23,7 @@ $ Last_Error:1864
 
   首先查一下slave_pending_jobs_size_max；
 
-```
+```sql
 [test]>show global variables like '%slave_pending_jobs_size_max%';
 +-----------------------------+----------+
 | Variable_name               | Value    |
@@ -36,13 +36,13 @@ $ Last_Error:1864
   果然是因为slave_pending_jobs_size_max这个值为16777216，
   果断:
 
-```
+```sql
 [test]>stop slave；
 [test]>set global slave_pending_jobs_size_max=20000000;
 [test]>start slave；
 ```
 
-```
+```sql
 [test]>show global variables like '%slave_pending_jobs_size_max%';
 +-----------------------------+----------+
 | Variable_name               | Value    |

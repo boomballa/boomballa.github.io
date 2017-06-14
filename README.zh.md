@@ -3,7 +3,7 @@
 ### [我的博客在这里 &rarr;](http://boomballa.github.io)
 
 
-这个Blog是借鉴了[Hux blog](http://huxpro.github.io)的模版，我个人对该模版十分喜爱，并针对个人爱好进行了修改，增加了Livere评论，对于页面显示也进行了一系列调整，Hux搭建说明写的十分全面，我就不再写了，见下文。
+这个Blog是借鉴了[Hux blog](http://huxpro.github.io)的模版，我个人对该模版十分喜爱，并针对个人爱好进行了修改，增加了Livere评论，对于页面显示也进行了一些微调，Hux搭建说明写的十分全面，我就不再写了，见下文。
 
 
 ### 关于收到"Page Build Warning"的email

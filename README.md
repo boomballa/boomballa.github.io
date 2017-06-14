@@ -2,7 +2,7 @@
 
 ###[View Live Boomballa Blog &rarr;](https://huangxuan.me)
 
-This blog is a reference to the [Hux blog] (http://huxpro.github.io) template, I personally love the template, and for personal hobbies have been modified to increase the Livere comments for the page display also carried out A series of adjustments, Hux build instructions written very comprehensive, I will not write, see below.
+This blog is a reference to the [Hux blog](http://huxpro.github.io) template, I personally love the template, and for personal hobbies have been modified to increase the Livere comments for the page display also carried out A series of adjustments, Hux build instructions written very comprehensive, I will not write, see below.
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
@@ -25,7 +25,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 ## Translation
 
- - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
+ - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/boomballa/boomballa.github.io/blob/master/README.zh.md)
 
 ## Features
 

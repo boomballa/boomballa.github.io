@@ -1,9 +1,10 @@
-#Hux Blog
+#Boomballa Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Boomballa Blog &rarr;](https://huangxuan.me)
+
+This blog is a reference to the [Hux blog] (http://huxpro.github.io) template, I personally love the template, and for personal hobbies have been modified to increase the Livere comments for the page display also carried out A series of adjustments, Hux build instructions written very comprehensive, I will not write, see below.
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
-
 
 
 ## Boilerplate (beta)

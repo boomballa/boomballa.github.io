@@ -59,7 +59,7 @@ tags:
 
 下面我参照 [JAVA夜无眠](http://xm-king.iteye.com/blog/770721) 的博客做了几个实验，运用**A**、**B**端两个事务分别测试几种隔离级别。测试数据库为test，表为t_test；表结构：
 
-```
+```sql
 [test]>show create table t_test;
 +--------+-------------------------------------------------------------------------------------------------------------------+
 | Table  | Create Table                                                                                                      |
@@ -75,7 +75,7 @@ tags:
 **(一)、将A的隔离级别设置为Read Uncommitted(未提交读)**
 事务**A**端**：**
 
-```
+```sql
 [test]>SET SESSION TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
 
 [test]>SELECT @@TX_ISOLATION;      
@@ -90,7 +90,7 @@ tags:
 在**B**端未更新数据之前：
 事务**A**端**：**
 
-```
+```sql
 [test]>SELECT @@TX_ISOLATION;        
 +------------------+
 | @@TX_ISOLATION   |
@@ -116,7 +116,7 @@ Query OK, 0 rows affected (0.00 sec)
 
 **B**端更新数据：事务**B**端**：**
 
-```
+```sql
 [test]>SET AUTOCOMMIT=0;  
 
 [test]>update t_test set no=888 where id =1;
@@ -151,7 +151,7 @@ Query OK, 0 rows affected (0.06 sec)
 
 事务**A**端**：**
 
-```
+```sql
 [test]>start transaction;
 Query OK, 0 rows affected (0.00 sec)
 
@@ -196,7 +196,7 @@ Query OK, 0 rows affected (0.00 sec)
 在**B**端未更新数据之前：
 事务**A**端**：**
 
-```
+```sql
 [test]>SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED;
 
 [test]>SELECT @@TX_ISOLATION;        
@@ -225,7 +225,7 @@ Query OK, 0 rows affected (0.00 sec)
 **B**端更新数据：
 事务**B**端**：**
 
-```
+```sql
 [test]>SET AUTOCOMMIT=0;  
 
 [test]>update t_test set no=888 where id =1;
@@ -249,7 +249,7 @@ Query OK, 0 rows affected (0.23 sec)
 
 事务**A**端**：**
 
-```
+```sql
 [test]>start transaction;
 Query OK, 0 rows affected (0.00 sec)
 
@@ -284,7 +284,7 @@ Query OK, 0 rows affected (0.00 sec)
 在**B**端未更新数据之前：
 事务**A**端**：**
 
-```
+```sql
 [test]>SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ;
  
 [test]>SELECT @@TX_ISOLATION;        
@@ -313,7 +313,7 @@ Query OK, 0 rows affected (0.05 sec)
 **B**端更新数据：
 事务**B**端**：**
 
-```
+```sql
 [test]>SET AUTOCOMMIT=0;
 
 [test]>start transaction;
@@ -340,7 +340,7 @@ Query OK, 0 rows affected (0.06 sec)
 
 事务**A**端**：**
 
-```
+```sql
 [test]>start transaction;            
 Query OK, 0 rows affected (0.05 sec)
 
@@ -381,7 +381,7 @@ Query OK, 0 rows affected (0.05 sec)
 **B**端插入数据：
 事务**B**端**：**
 
-```
+```sql
 [test]>insert into t_test(no)value(999);
 Query OK, 1 row affected, 1 warning (0.00 sec)
 
@@ -412,7 +412,7 @@ Query OK, 1 row affected, 1 warning (0.00 sec)
 
 事务**A**端**：**
 
-```
+```sql
 [test]>select * from t_test;
 +----+------+
 | id | no   |
@@ -446,7 +446,7 @@ Query OK, 0 rows affected (0.00 sec)
 **A**端打开事务，**B**端插入一条记录
 **A**端**：**
 
-```
+```sql
 [test]>SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ;
 
 [test]>SELECT @@TX_ISOLATION;     
@@ -471,7 +471,7 @@ Query OK, 0 rows affected (0.00 sec)
 
 事务**B**端**：**
 
-```
+```sql
 [test]>SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ;
 Query OK, 0 rows affected (0.00 sec)
 
@@ -491,14 +491,14 @@ Query OK, 0 rows affected (0.00 sec)
 **A**端提交事务：
 **A**端**：**
 
-```
+```sql
 [test]>commit;
 Query OK, 0 rows affected (0.00 sec)
 ```
 
 事务**B**端**：**
 
-```
+```sql
 [test]>insert into t_test(no)value(999);
 Query OK, 0 rows affected (0.00 sec)
 ```

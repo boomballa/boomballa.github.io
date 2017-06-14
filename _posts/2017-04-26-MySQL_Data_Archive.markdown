@@ -154,7 +154,7 @@ if __name__ == '__main__':
   以上步骤的脚本是处理表call_record的,net_flow和sms_record表同理，再编辑出两个脚本，下一步就是关键的整理表，那么我问题来了，为什么要整理表呢？    
   是因为原表删除过数据以后，原来数据的表空间依然保留，delete的操作只是在行数据上打上了delete的标签，并没有真正意义上删除。整理表大家都会：
 
-```mysql
+```sql
 mysql> alter table call_record engiine='innodb';
 mysql> alter table net_flow engiine='innodb';
 mysql> alter table sms_record engiine='innodb';

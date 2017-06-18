@@ -9,6 +9,7 @@ catalog:    true
 tags:
     - MySQL
     - Group Replication
+    - High Availability
 ---
 
 ### 开场白

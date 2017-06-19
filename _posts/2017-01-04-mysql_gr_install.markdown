@@ -12,8 +12,10 @@ tags:
     - High Availability
 ---
 
-### 开场白
+## 开场白
   这次给大家介绍下MySQL官方最新版本5.7.17中GA的新功能  **Group Replication** 。
+
+<img src="/img/in-post/mysql_gr_install/group_replication.jpg" height="300" width="960">
 
 **简介**
 
@@ -21,7 +23,7 @@ tags:
 
 >  但是，在不同服务器上并发执行的事务之间可能存在冲突。通过在称为认证的过程中检查两个不同的并发事务的写集合来检测这样的冲突。如果在不同的服务器上执行的两个并发事务更新同一行，则会出现冲突。解析过程指出，首先订购的事务在所有服务器上提交，而顺序第二次中止的事务将在源服务器上回滚，并由组中的其他服务器删除。这实际上是一个分布式的第一个提交赢的规则。
 
- **MySQL组复制协议**
+#### **MySQL组复制协议**
 ![](https://dev.mysql.com/doc/refman/5.7/en/images/gr-replication-diagram.png)
 
 > 最后，组复制是一种无共享复制方案，其中每个服务器都有自己的整个数据副本。
@@ -29,9 +31,9 @@ tags:
 
 介绍就到这，本文中我将一步一步的安装部署group_replication的三个节点，并让你看到它的功能和特性，如果看完全文，你十分的感兴趣的话，可以去[mysql](https://dev.mysql.com)的[Group Replication](https://dev.mysql.com/doc/refman/5.7/en/group-replication.html)主页去查看更详细的信息。
 
-### 正文
+## 正文
 
-**1. 环境介绍**
+#### **1. 环境介绍**
 
 basedir = /usr/local/mysql 
 
@@ -43,7 +45,7 @@ basedir = /usr/local/mysql
 | 3307 | /data/mysql/mysql_3307/{data,logs,tmp} | 33071 |
 | 3308 | /data/mysql/mysql_3308/{data,logs,tmp} | 33081 |
 
-**2. 初始化**
+#### **2. 初始化**
 
 ①、下载and解压缩，并把mysql放到指定地方（标准目录： /usr/local/mysql）
 
@@ -62,7 +64,7 @@ shell> mkdir -p /data/mysql/{mysql_3306,mysql_3307,mysql_3308}/{data,logs,tmp}
 shell> chown -R mysql.mysql /data/mysql/
 ```
 
-**3. 正式初始化并安装**
+#### **3. 正式初始化并安装**
 
 安装机器： 172.16.3.134 （单机多实例安装）
 配置文件说明：
@@ -237,7 +239,7 @@ loose-group_replication_enforce_update_everywhere_checks=on
 
 
 
-**4.启动Group_replication第一个节点：** 
+#### **4.启动Group_replication第一个节点：** 
 
 ①、初始化3306实例：
 
@@ -312,7 +314,7 @@ mysql> insert into boomballa(id,name) values(1,'boomballa.top');
 mysql> insert into boomballa(id,name) values(2,'myblog');  
 ```
 
-**5. 启动Group_replication第二个节点：**
+#### **5. 启动Group_replication第二个节点：**
 
 ①、初始化并启动实例：
 
@@ -341,7 +343,7 @@ mysql> SELECT * FROM performance_schema.replication_group_members;
 2 rows in set (0.00 sec)
 ```
 
-**6. 第三节点安装配置略过了，安装好了以后的状态应该是(三节点上查询结果都是如此)：**
+#### **6. 第三节点安装配置略过了，安装好了以后的状态应该是(三节点上查询结果都是如此)：**
 
 ```sql
 mysql> SELECT * FROM performance_schema.replication_group_members;
@@ -387,5 +389,5 @@ id      name
 
 <img src="/img/in-post/mysql_gr_install/prefect.jpg" height="296" width="300">
 
-### 结束语
+## 结束语
   好啦，安装部署的部分就讲到这里了，博主这几天将继续对Group_replication进行研究，近期还会有关于此功能的文章出现，好啦，下班回家吃饭。

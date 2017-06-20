@@ -431,6 +431,63 @@ OK: Role 'writer' has been moved from 'db2' to 'db1'. Now you can wait some time
 
 此命令还有一种霸道总裁的用法，即: `mmm_control move_role --force role host`，但是我不建议使用，它可以把角色强行设置到具有` REPLICATION_FAIL`和`REPLICATION_DELAY`状态的在线数据库主机，请大家谨慎使用。
 
+#### 备注  Tips
+
+此处注意，通过对MMM的使用，我发在几个小Tis，分享给大家。
+1.配置文件不可直接上传，否则会不可用，还是麻烦点复制粘贴吧。
+2.如果`MMM`集群中，三个实例都并不是在默认端口`3306`上，区别主要在配置文件`mmm_common.conf`上，那么此配置文件应该是酱婶的：
+
+```shell
+[shell ~]# cat mmm_common.conf 
+active_master_role      writer
+
+<host default>
+    cluster_interface       bond0
+    mysql_port              3307
+    pid_path                /var/run/mysql-mmm/mmm_agentd.pid
+    bin_path                /usr/libexec/mysql-mmm/
+    replication_user        repl
+    replication_password    repl
+    agent_user              mmm_agent
+    agent_password          mmm_agent
+</host>
+
+<host db1>
+    ip      10.10.13.21
+    mysql_port      3307
+    mode    master
+    peer    db2
+</host>
+
+<host db2>
+    ip      10.10.13.24
+    mysql_port      3307
+    mode    master
+    peer    db1
+</host>
+
+<host db3>
+    ip      10.10.13.25
+    mysql_port      3307
+    mode    slave
+</host>
+
+<role writer>
+    hosts   db1, db2
+    ips     10.10.13.28
+    mode    exclusive
+</role>
+
+<role reader>
+    hosts   db2, db3
+    ips     10.10.13.29
+    mode    balanced
+</role>
+```
+
+3.重启`Monitor`是不需要担心`Vip`的问题的，就算你把`Monitor`关了也无所谓，`Vip`和已存在的连接会一直在的。
+4.手工切换写入节点IP时候，尽量选在业务低峰期，不然有可能会早晨数据不一致，出现同步错误，主键冲突啊什么的。
+
 ## 结束语
    Done，不知道大家看了之后对于MMM高可用环境有什么影响，总体感觉还是比较灵活的，进行主主写节点切换的时候代价也不是很大，在线切即可，我们目前在使用中，觉得还是比较方便的，算是个不错的高可用方案，还有一种，就是MHA了，那种后面文章我也会进行详细的介绍，不好意思，篇幅都有些长，大家挑着看即可了，有什么使用中的疑问，欢迎沟通，一起探讨。             
    

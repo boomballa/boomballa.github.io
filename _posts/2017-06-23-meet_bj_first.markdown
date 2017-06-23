@@ -4,7 +4,7 @@ title:      "初见北京的生活"
 subtitle:   "First Meet The Life Of Beijing"
 date:       2017-06-23 00:29:07
 author:     "Boomballa"
-header-img: "img/home-bg.jpg"
+header-img: "img/in-post/meet_bj_first/subway.jpg"
 catalog:    false
 tags:
     - Life

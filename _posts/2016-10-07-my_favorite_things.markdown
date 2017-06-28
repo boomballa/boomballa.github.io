@@ -2,7 +2,7 @@
 layout:     post
 title:      "Something I Like"
 subtitle:   "My Favorite Things"
-date:       2017-06-23 00:29:07
+date:       2016-10-07 00:29:07
 author:     "Boomballa"
 header-img: "img/in-post/meet_bj_first/subway.jpg"
 catalog:    true

@@ -16,14 +16,15 @@ tags:
 来北京有段时间了，北京带给我的有很多东西，这些东西如同空气般穿插在我的生活中，无形无色，如果真的要说有什么，也许就是身边那些可爱的朋友，早晨随处可见忙于事业的人群奔走在大街小巷，还有早晨醒来后的那一米阳光。
 
 ## 正文
-比较明显的，每天走的路比原来多太多了，工作日的平均步数应该在12000+，一上来我并不理解，大早晨上个班都跟竞走是的，干什么，拍戏啊？现在的我不知不觉中走路竟然也是那速度了。 回到家和朋友走在一起，总是会被说成：妈蛋，你等着赶集去？  我竟无言以对，我觉得很正常啊。知道自己收拾屋子了，有的时候周末公司有事情，就不回家了，休养生息，一来可以处理事情，二来可以睡个自然醒的觉。每次不回家起来之后，总是会花1-2小时收拾一下屋子，扫地，擦地，洗床单，被罩，拿个抹布把屋里的摆设都擦上一遍，浇浇花。 然后下午去门口菜市场，买点菜，做点简单的，顺便把下周的水果和蔬菜都买齐，以至于下班买个主食就可以了，不用在为了买菜费脑筋。除此之外，还会看些电影啦，电视剧啦...
+我改变比较明显的，每天走的路比原来多太多了，工作日的平均步数应该在12000+，一上来我并不理解，大早晨上个班都跟竞走是的，干什么，拍戏啊？现在的我不知不觉中走路竟然也是那速度了。 回到家和朋友走在一起，总是会被说成：妈蛋，你等着赶集去？  我竟无言以对，我觉得很正常啊。知道自己收拾屋子了，有的时候周末公司有事情，就不回家了，休养生息，一来可以处理事情，二来可以睡个自然醒的觉。每次不回家起来之后，总是会花1-2小时收拾一下屋子，扫地，擦地，洗床单，被罩，拿个抹布把屋里的摆设都擦上一遍，浇浇花。 然后下午去门口菜市场，买点菜，做点简单的，顺便把下周的水果和蔬菜都买齐，以至于下班买个主食就可以了，不用在为了买菜费脑筋。除此之外，还会看些电影啦，电视剧啦...
 
 前方高能预警，请自带安全帽进入现场。
 
 ## 喜欢的剧
-一开始我对外国电影其实是无感的，但是后来通过知乎，总是看到哪些哪些电影怎么好怎么好的，既然这样那就试试。一发不可收拾 ~ 下面分享一些我看过的，觉得不错的电影。    
+一开始我对外国电影其实是无感的，但是后来通过知乎，总是看到哪些哪些电影怎么好怎么好的，既然这样那就试试。一发不可收拾 ~ 下面分享一些我看过的，觉得不错的电影、电视剧和网剧。    
 
 #### 豆瓣高分电影:
+这里边有励志的，有感人的，不过大部分豆瓣高分的电影基本上都是反映社会现象，抑或是描写心理活动入微，这些电影不多讲，有些电影大家估计已经耳熟能详了，所以不多介绍了，来个西西里的高冷美女震楼得了，注意气场。
 
 肖申克的救赎：[点此下载](ed2k://|file|%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E.The.Shawshank.Redemption.1994.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.1080p.BluRay.x264.%E6%B7%B1%E5%BD%B1%E8%AE%BA%E5%9D%9B%E5%BD%B1%E8%A7%86%E7%BB%84.mkv|3687528257|751AA04666D73547958BB4BA59AADBDF|h=OW6XZ54XPAMVONLUF4YI3SGDKHUVC7JA|/)    
 阿甘正传：[点此下载](magnet:?xt=urn:btih:657984BBC3F63EF6D87576199E10037A5C5C1D47&xl=1978685833&dn=%E9%98%BF%E7%94%98%E6%AD%A3%E4%BC%A0.rmvb)    
@@ -42,68 +43,87 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 西西里的美丽传说：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGEuMnR1LmNjOjIwNDg3L1vRuMDXz8LU2Hd3dy4ydHUuY2NdzvfO98DvtcTDwMD2tKvLtS5CRDEyODC438fl1tDTosur19Yucm12Ylpa)    
 星际穿越：[点此下载](magnet:?xt=urn:btih:7A65487E638A3404294FE4C996D4A952F99398B0)    
 
-**日韩出品**
-釜山行：[点此下载](ed2k://|file|Busanhaeng.(aka.Train.to.Busan).(2016).BD.MiniSD-TLF.mkv|1105294836|8845D4C72D23F09C4BB42B9EA439223B|h=XPPU2UVUOXEVBVN47457HRLB5YB74RZQ|/)    
-釜山行催泪原声带[点此下载](https://pan.baidu.com/s/1o7IpLvc) 密码: hm8s        
+<img src="/img/in-post/my_favorite_things/xixili.png" height="574" width="1000">      
+
+#### 日韩出品    
+还记得大一的时候第一次看野蛮师姐，第一次认识全智贤，那种感觉，很感动，同时也被她的另类美丽所吸引的，一种别的演绎不出来的美丽。这部剧当时反反复复我看了很多遍，依然很感动，这里不得不提的就是，里面的插曲[BK love](http://music.163.com/#/m/song?id=22839242&userid=106273967)，什么时候听，我都能想起全智贤那张清秀的脸，和那个感人的故事。 后来又看了雏菊，触不到的恋人 也都挺赞的。 孔刘的话是近期开始喜欢的一个男演员，当然是因为釜山行(Train to Busan)，这部虽说不是最好的僵尸剧，但是情节紧凑，节奏快，感人点突出，由它，我翻出了之前孔刘拍的 熔炉，这部更是感人至深，反映的当然都是丑陋的人性。
 
 野蛮师姐：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGouMnR1LmNjOjIwMTExL1vRuMDXz8LU2Hd3dy4ydHUuY2Nd0rDC+cqmveMuSEQxMjgwuN/H5bqr0+/W0NfWLnJtdmJaWg==)    
+雏菊：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGouMnR1LmNjOjEwNTYyL1vRuMDXz8LU2Hd3dy4ydHUuY2Nds/u+1S5CRDEyODC438fluqvT79bQ19Yucm12Ylpa)
+<img src="/img/in-post/my_favorite_things/quanzhixian.png" height="625" width="793">  
 
+釜山行：[点此下载](ed2k://|file|Busanhaeng.(aka.Train.to.Busan).(2016).BD.MiniSD-TLF.mkv|1105294836|8845D4C72D23F09C4BB42B9EA439223B|h=XPPU2UVUOXEVBVN47457HRLB5YB74RZQ|/)    
+釜山行催泪原声带：[点此下载](https://pan.baidu.com/s/1o7IpLvc) 密码: hm8s        
+熔炉：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGEueHVuYm8uY2M6MjAzNzAvW9G4wNfPwtTYd3d3Llh1bkJvLkNjXcjbwq8uMTAyNLjfx+W6q9Pv1tDX1i5ta3ZaWg==)
+<img src="/img/in-post/my_favorite_things/kongliu.png" height="546" width="864">    
 #### 内心强大的人才能看的电影
+这里的电影我都会特别的仔细看，体会主人公的心理状态，人生在世真的有很多的不得已，松子一句 **“生而在世，我很抱歉”**，包含了多少无奈，以及对自己的失望。李·钱德勒背负着痛苦的活在世上，一句承诺、一句不过脑的责骂，乃至于你不好的情绪或者不良的嗜好，足以改变你身边的某个人。泰德·丹尼尔 在禁闭岛的生活，对过去的否认，宁愿做一个植物也不愿意清醒的天天回忆过去，活在自责之中。所以请对身边的人好一些。 万能钥匙胆小的就别看了，带好安全帽也没用。    
 
 被嫌弃松子的一生：[点此下载](http://119.164.200.43/被嫌弃的松子的一生BD日语中字[电影天堂www.dy2018.com].mp4?fid=CA68xEvMPCOL0Fw5-fgjpsBZlfN2tSZrAAAAALYCDwPuXVl1sErEzuBQIMLErI2W&mid=666&threshold=150&tid=35D712FE5CB31361014D7304B55D5823&srcid=119&verno=1)    
 万能钥匙：[点此下载](http://192.168.1.105/万能钥匙BD中英双字[电影天堂www.dy2018.com].mp4?fid=zpq8bpe7uwTHuBe1MNWhpxEWzfWe0EJSAAAAAJwlh2OeMPfVhN9f3Qkm9Uoz4ccA&mid=666&threshold=150&tid=0F1FCF5EC9D8DB79DAC7FE772ABC13C4&srcid=119&verno=1)    
 狩猎：[点此下载](http://100.74.249.63/[电影天堂-www.dy2018.net].狩猎.BD.1280x720.中英双字幕.rmvb?fid=WsAJs9U-7UU1Rat79Tuovdi6AsHBHo5LAAAAABIapvjKgkva9h9NBFEhTL2Hs2n0&mid=666&threshold=150&tid=1A696661AF63084F1A4FF7BA6CF8514D&srcid=119&verno=1)    
 海边的曼彻斯特：[点此下载](thunder://QUFmdHA6Ly9xOnFAZHlnb2QxOC5jb206MzUyMS9bJUU3JTk0JUI1JUU1JUJEJUIxJUU1JUE0JUE5JUU1JUEwJTgyd3d3LmR5MjAxOC5jb21dJUU2JUI1JUI3JUU4JUJFJUI5JUU3JTlBJTg0JUU2JTlCJUJDJUU1JUJEJUJCJUU2JTk2JUFGJUU3JTg5JUI5QkQlRTQlQjglQUQlRTglOEIlQjElRTUlOEYlOEMlRTUlQUQlOTcucm12Ylpa)    
-
+<img src="/img/in-post/my_favorite_things/songzi.png" height="566" width="993">  
 **小李子系列：**   
 盗梦空间：[点此下载](magnet:?xt=urn:btih:cbe7470111555e9a948e1bfd705afdccfbbba36d)    
-革命之路：[点此下载](http://192.168.0.110/[迅雷下载www.2tu.cc]革命之路.BD1024高清中英双字.rmvb?fid=3pb3PdHbKtcDuSL7NhkXERc7a-F1YrE9AAAAAEnwQAfeL-lMyX7VQ1nykIO8kefJ&mid=666&threshold=150&tid=20433433C4F9813D838019FD671D377F&srcid=119&verno=1)
+革命之路：[点此下载](http://192.168.0.110/[迅雷下载www.2tu.cc]革命之路.BD1024高清中英双字.rmvb?fid=3pb3PdHbKtcDuSL7NhkXERc7a-F1YrE9AAAAAEnwQAfeL-lMyX7VQ1nykIO8kefJ&mid=666&threshold=150&tid=20433433C4F9813D838019FD671D377F&srcid=119&verno=1)    
+<img src="/img/in-post/my_favorite_things/xiaolizi.gif" height="208" width="500">   
 
 #### 系列电影
+惊天魔盗团看了第一部，有点上瘾，后面就开始跟了，总的说，还是不错，有惊喜，有悬念，魔术本身也不单调啊，偶尔换换口味还是不错的，第二部里面有杰伦哦。速度与激情我感觉就不用多说了，说实话我是从第五部开始跟的，之前在`CCTV6`看过速度2，无感。 速度5人员齐全，情节也比较好。 但是跟了半截啊，我在速度里面最喜欢的演员，保罗·沃克出意外了。我在电影院看了两遍速度7，并且记住了一首歌，当然是`see U again`，永远的保罗，我真的觉得也许上帝也缺个靠谱的司机。
+
 惊天魔盗团1：[点此下载](thunder://QUFmdHA6Ly95OnlAZHguZGwxMjM0LmNvbTo4MDA2L1u159OwzOzMw3d3dy5keTIwMTguY29tXb6qzOzEp7XBzcVCRNbQ06LLq9fWteSy2LDmLnJtdmJaWg==)    
 惊天魔盗团2：[点此下载](ed2k://|file|%E6%83%8A%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A22.2016.720p%E9%AB%98%E6%B8%85%E8%8B%B1%E8%AF%AD%E4%B8%AD%E8%8B%B1%E5%8F%8C%E5%AD%97%5BBT%E5%93%A5%20www.btge.cc%5D(ED2000.COM).mp4|2156873735|20C6E45B3EB249A8382FFB6DD06ACCB9|/
 )    
+<img src="/img/in-post/my_favorite_things/modaotuan.png" height="574" width="995">  
 
 速度与激情1-6：[点此下载](magnet:?xt=urn:btih:f18d58545ea7a9e93e4cd997a728ec55469f3d07)    
 速度与激情7：[点此下载](magnet:?xt=urn:btih:fba2d2eb7fa439c3989ec4927d94647b8ef7a023)    
 速度与激情8：[点此下载]( https://pan.baidu.com/s/1pLjXVyr) 密码：pka2    
 速度与激情8原声带：[点此下载](https://pan.baidu.com/s/1i4O54Lf) 密码：i8j3    
+<img src="/img/in-post/my_favorite_things/sudu.png" height="574" width="995">    
 
 #### 国产电影精品
 
 驴得水：[点此下载](magnet:?xt=urn:btih:CD5C5105BD52A247C27414379EF8D751983B6A7B)
 
-这里不得不提一下我喜欢的演员了，张涵予，我给张涵予三个词作为评价:踏实、果敢、底细，也是我喜欢他的原因。当然了还有刘烨，黄渤，他们都是我喜欢的演员。
+这里不得不提一下我喜欢的演员了，张涵予，我给张涵予三个词作为评价:踏实、果敢、底细，也是我喜欢他的原因。这里有集结号里面的谷子地，有老炮中的三儿，还有智取威虎山的杨子荣，风声中的老枪，这些角色其实都有一个通性，当然了还有刘烨，黄渤，他们都是我喜欢的演员。厨子痞子戏子离得黄渤的口音就要乐死我了，黄渤多才多艺，情商极高，不信的[请点](http://video.tudou.com/v/XMTc4NTkzMzY2NA==.html?bid=03&amp;amp;pid=2&amp;amp;resourceId=38315052_03_05_02)。刘烨，说实话感觉是这几个人中演技相对差一点的，但是我就是喜欢他那股子又痞又文化人的样子，钟跃民演的入木三分，体验百味人生，放荡不羁，形象深入人心。
 
 集结号：[点此观看](http://www.soku.com/nt/search/q_集结号)    
 老炮儿：[点此观看](magnet:?xt=urn:btih:D886850D419E76B45A2D1B597301BC99CACF886F)    
-智取威虎山[点此观看](http://www.soku.com/nt/search/q_智取威虎山)    
-风声：[风声](http://www.soku.com/nt/search/q_风声)    
+智取威虎山：[点此观看](http://www.soku.com/nt/search/q_智取威虎山)    
+风声：[点此观看](http://www.soku.com/nt/search/q_风声)    
 厨子痞子戏子：[点此观看](http://video.tudou.com/v/XNTU0NTQyNzQw.html?spm=a2h0k.8191414.0.0)
 <img src="/img/in-post/my_favorite_things/chuzixizipizi.jpg" height="655" width="1000">  
 <img src="/img/in-post/my_favorite_things/xizi.jpg" height="665" width="1000"> 
 
 #### 国产叛逆系列
+论叛逆，这里当然少不了冯小刚，姜文，王朔此类人物，这些电影虽说都是早期的电影，但是反映的东西还是挺真实的，和当时的社会背景其实都挺符合的，看上去也比较接地气，演技也都不错，有时间看看，也挺有意思的。
+
 冤家父子（我是你爸爸）：[点此下载](ed2k://|file|%E5%86%A4%E5%AE%B6%E7%88%B6%E5%AD%90%20%5B%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B8%E7%88%B8%5D%20%20DVD%E5%9B%BD%E8%AF%AD.rmvb|427028243|394F83BD7878BBB0A4F183D63A706C9F|/)    
 阳光灿烂的日子：[点此下载](thunder://QUFlZDJrOi8vfGZpbGV8W0JE07DK07fWz+1iZC1maWxtLmNvbV3R9LnistPAw7XEyNXX0y4xOTk0LkRWRFJpcC7N6tX70N64tLDmLrn60+/O3tfWxLsuYXZpfDEyMDc5MTY2OTZ8MzAzMURGNjQ3RkYzMUY0MTcwRjNBMkY3M0ZBNTQ5MER8aD1TTkdHNVNRRFFVU1NCVUlIU09JQ0hVWllPVTNXR1VLQXwvWlo=)    
 鬼子来了：[点此下载](ed2k://|file|%E9%AC%BC%E5%AD%90%E6%9D%A5%E4%BA%86.rmvb|1937080449|B889E0C36A0492AC6DDD35A70906866C|/)    
 盲山：[点此下载](ed2k://|file|%5B66%E5%BD%B1%E8%A7%86www.66yc.cc%5D%E7%9B%B2%E5%B1%B1.Blind.Mountain.2007.DVDRip.mkv|1332918321|DE51BE46AF127F674FB5D020665D932F|/)    
 盲井：[点此下载](ed2k://|file|(92np.com)%E7%9B%B2%E4%BA%95.DVD%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97(ED2000.COM).mp4|1406129964|C448CCBC56D8710AE3A3C57092F39526|/)    
-
+<img src="/img/in-post/my_favorite_things/mache.png" height="393" width="678"> 
 
 #### 萌剧
-鹬 Piper：[点此下载](magnet:?xt=urn:btih:F434EC5D876A11DF911C6781A863C38BEDDA9E04)
+这些其实都是我给我姑娘找的，但是不知不觉我也看了好几遍，现在熊大熊二，什么春日对对碰，冬季乐翻天啊，几乎每集我都看过，相比那些，我还是想让她看些比较有意义的东西，哪怕画面精致一下，也是视觉享受啊。
+
+鹬 Piper：[点此下载](magnet:?xt=urn:btih:F434EC5D876A11DF911C6781A863C38BEDDA9E04)    
 疯狂动物城：[点此下载](magnet:?xt=urn:btih:343a204131bb8ecf09566e93151df7d142174fac)
+<img src="/img/in-post/my_favorite_things/piper.png" height="378" width="397">    
 
 #### 国剧
 
 血色浪漫：[点此观看](http://www.soku.com/nt/search/q_血色浪漫)    
 亮剑：[点此观看](http://www.soku.com/nt/search/q_亮剑)    
+<img src="/img/in-post/my_favorite_things/zhongyuemin.png" height="543" width="783"> 
 
 **宝强系列：**    
 士兵突击：[点此观看](http://www.soku.com/nt/search/q_士兵突击)    
 我的兄弟叫顺溜：[点此观看](http://www.soku.com/nt/search/q_我的兄弟叫顺溜)    
-
+<img src="/img/in-post/my_favorite_things/shibingtuji.png" height="619" width="939">     
 人民的名义：[点此观看](https://pan.baidu.com/s/1jHDEnvK) 密码：8je6    
 
 #### 美剧

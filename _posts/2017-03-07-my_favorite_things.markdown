@@ -2,7 +2,7 @@
 layout:     post
 title:      "Something I Like"
 subtitle:   "My Favorite Things"
-date:       2017-02-07 00:29:07
+date:       2017-03-07 00:29:07
 author:     "Boomballa"
 header-img: "img/in-post/meet_bj_first/subway.jpg"
 catalog:    true
@@ -112,9 +112,10 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 鹬 Piper：[点此下载](magnet:?xt=urn:btih:F434EC5D876A11DF911C6781A863C38BEDDA9E04)    
 疯狂动物城：[点此下载](magnet:?xt=urn:btih:343a204131bb8ecf09566e93151df7d142174fac)
-<img src="/img/in-post/my_favorite_things/piper.png" height="378" width="397">    
+<img src="/img/in-post/my_favorite_things/piper.png" height="567" width="1182">    
 
 #### 国剧
+这里面都是我在北京闲余时间，看了好几遍的电视剧，每次看都会有不同的感悟，不知道为什么喜欢看军队里面的故事，这里有耳熟能详的许三多，也有嗜血战斗英雄顺溜(还是他)，还有逢敌必亮剑，绝不含糊的李云龙，楚云飞曾送他一句诗：“痛饮狂歌空度日，飞扬跋扈为谁雄”。 人民的名义是最近才开播的，达康书记瞬间红遍了大江南北，看老戏骨飙戏真的很过瘾呢，一颦一笑和心里斗争表现的都特别好，值得一看。 最后来说说血色浪漫吧，应该算是最喜欢的电视剧之一了，对那个年代的背景和那个年代的北京交待的很清楚，钟跃民的放荡不羁爱自由，永远活在过程中的男人，从青涩到大家成人而立，和社会给大家带来的伤疤，当然，还有痛。
 
 血色浪漫：[点此观看](http://www.soku.com/nt/search/q_血色浪漫)    
 亮剑：[点此观看](http://www.soku.com/nt/search/q_亮剑)    
@@ -124,18 +125,45 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 士兵突击：[点此观看](http://www.soku.com/nt/search/q_士兵突击)    
 我的兄弟叫顺溜：[点此观看](http://www.soku.com/nt/search/q_我的兄弟叫顺溜)    
 <img src="/img/in-post/my_favorite_things/shibingtuji.png" height="619" width="939">     
-人民的名义：[点此观看](https://pan.baidu.com/s/1jHDEnvK) 密码：8je6    
-
+人民的名义：[点此观看](https://pan.baidu.com/s/1jHDEnvK) 密码：8je6      
+<img src="/img/in-post/my_favorite_things/renmindemingyi.jpg" height="280" width="960"> 
 #### 美剧
-
-权力的游戏：[点此下载](http://www.llduang.com/37822.html)    
+权利的游戏我是从第六季看的，看之前恶补了之前五季，相当精彩啊，喜欢囧雪诺的勇往直前，龙女的AOE(每次都死不少)，瑟后的绝对控制，以及各国之间的斗争，有点类似于三国，但是里面加入了很多新鲜的东西，画面很不错，有狼、异鬼、巨人、野人，不多剧透了。    
+权力的游戏：[点此下载](http://www.llduang.com/37822.html)
 禁忌：[点此下载](http://www.llduang.com/72394.html)    
-
+<img src="/img/in-post/my_favorite_things/quanli_jinji.png" height="534" width="874">    
 ## 喜欢的网站
+这里介绍下平时比较喜欢上的网站，来个Top排行吧。
 
-## 喜欢的歌手
+**Top 1**    
+[MySQL官网](https://www.mysql.com/)/[Percona官网](https://www.percona.com/)    
+作为一个DBA，首屈一指访问量最高的，当属`Mysql`数据库官网啊，需要去上面下版本，看手册，`Percona`上面还有很多DBA需要的工具，访问量最高，这是必须的。
 
-## 喜欢的物件
+**Top 2**    
+[谷歌](https://www.google.com/)/[百度](https://www.baidu.com/)    
+第二位的当然是大搜索引擎了，解决技术问题还是谷歌比较给力，这个无可厚非吧？ 当然了度娘使用场景也还是很多的，所以搜索引擎必须排第二。    
+
+**Top 3**    
+[知乎](https://www.zhihu.com/)    
+是我大知乎，作为一个技术宅，休闲时间干点什么呢？我选择大知乎，去见识更多的事情，搜索很多问题的解决办法也是最靠谱的，技术问题也有的，准确率都告，当然了，这也需要自己去判断答案的准确性，也有好多人来个抖机灵的回答，只是为了要赞来的。 当然了也别让自己太枯燥了，知乎上也有很多段子，看看段子，哈哈一下，放松一下你紧张的神经，也是不错的选择。    
+
+**Top 4**    
+[懂球帝](http://www.dongqiudi.com/)    
+个人挺喜欢体育的，而最喜欢的肯定是足球，没有之一。    
+
+**Top 5**    
+[Github](https://github.com/)    
+我大Github当然要当选，计算机从业者的最爱，太多的好东西，太多的干货，需要自己去淘，不太不用掏钱，完全开源的。这就好比去超市去拿你需要的东西，拿完了，还不要钱，你说High不High？ 
+
+## 喜欢的歌手    
+林俊杰&周杰伦&陈奕迅    
+<img src="/img/in-post/my_favorite_things/jj_jchou_eason.png" height="496" width="1237">  
+
+#### 喜欢的歌单    
+
+## 喜欢的物件    
+
+## 喜欢的动漫    
 
 ## 结束语
 虽说的是我最喜欢的，你了解了我，但也许也是你最喜欢的。暂且把这篇当作干货分享就好，起码省得你去网上费劲找资源啦，也谢谢大家费时间认识我。 

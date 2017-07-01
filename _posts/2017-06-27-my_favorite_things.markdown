@@ -2,9 +2,9 @@
 layout:     post
 title:      "Something I Like"
 subtitle:   "My Favorite Things"
-date:       2017-03-07 00:29:07
+date:       2017-06-27 00:29:07
 author:     "Boomballa"
-header-img: "img/in-post/meet_bj_first/subway.jpg"
+header-img: "img/in-post/my_favorite_things/naruto.png"
 catalog:    true
 tags:
     - Life
@@ -13,18 +13,18 @@ tags:
 ---
 
 ## 开场白
-来北京有段时间了，北京带给我的有很多东西，这些东西如同空气般穿插在我的生活中，无形无色，如果真的要说有什么，也许就是身边那些可爱的朋友，早晨随处可见忙于事业的人群奔走在大街小巷，还有早晨醒来后的那一米阳光。
+来北京有段时间了，北京带给我的有很多东西，这些东西如同空气般穿插在我的生活中，无形无色，如果真的要说有什么，也许就是身边那些可爱的朋友，早晨随处可见奔走在大街小巷的人群，还有早晨醒来后的那一米阳光。
 
 ## 正文
-我改变比较明显的，每天走的路比原来多太多了，工作日的平均步数应该在12000+，一上来我并不理解，大早晨上个班都跟竞走是的，干什么，拍戏啊？现在的我不知不觉中走路竟然也是那速度了。 回到家和朋友走在一起，总是会被说成：妈蛋，你等着赶集去？  我竟无言以对，我觉得很正常啊。知道自己收拾屋子了，有的时候周末公司有事情，就不回家了，休养生息，一来可以处理事情，二来可以睡个自然醒的觉。每次不回家起来之后，总是会花1-2小时收拾一下屋子，扫地，擦地，洗床单，被罩，拿个抹布把屋里的摆设都擦上一遍，浇浇花。 然后下午去门口菜市场，买点菜，做点简单的，顺便把下周的水果和蔬菜都买齐，以至于下班买个主食就可以了，不用在为了买菜费脑筋。除此之外，还会看些电影啦，电视剧啦...
+我生活中的改变是比较明显的，每天走的路比原来多太多了，工作日的平均步数应该在12000+，一上来我并不理解，大早晨上个班都跟竞走是的，干什么，拍戏啊？现在的我不知不觉中走路竟然也是那速度了。 回到家和朋友走在一起，总是会被说成：妈蛋，你等着赶集去？  我竟无言以对，我觉得很正常啊。知道自己收拾屋子了，有的时候周末公司有事情，就不回家了，休养生息，一来可以处理事情，二来可以睡个自然醒的觉。每次不回家起来之后，总是会花1-2小时收拾一下屋子，扫地，擦地，洗床单，被罩，拿个抹布把屋里的摆设都擦上一遍，浇浇花。 然后下午去门口菜市场，买点菜，做点简单的，顺便把下周的水果和蔬菜都买齐，以至于下班买个主食就可以了，不用在为了买菜费脑筋。除此之外，还会看些电影啦，电视剧啦...
 
 前方高能预警，请自带安全帽进入现场。
 
 ## 喜欢的剧
-一开始我对外国电影其实是无感的，但是后来通过知乎，总是看到哪些哪些电影怎么好怎么好的，既然这样那就试试。一发不可收拾 ~ 下面分享一些我看过的，觉得不错的电影、电视剧和网剧。    
+一开始我对外国电影其实是无感的，但是后来通过看知乎大V的推荐，总是看到哪些哪些电影怎么好怎么好的，既然这样我不妨试试。一发不可收拾 ~ 下面分享一些我看过的，觉得不错的电影、电视剧和网剧。    
 
 #### 豆瓣高分电影:
-这里边有励志的，有感人的，不过大部分豆瓣高分的电影基本上都是反映社会现象，抑或是描写心理活动入微，这些电影不多讲，有些电影大家估计已经耳熟能详了，所以不多介绍了，来个西西里的高冷美女震楼得了，注意气场。
+这里边有励志的，有感人的，不过大部分豆瓣高分的电影基本上都是反映社会现象，抑或是描写心理活动入微，这些电影不多讲，有些电影大家估计已经耳熟能详了，所以不多介绍了，来个西西里的高冷美女震楼，请注意气场。
 
 肖申克的救赎：[点此下载](ed2k://|file|%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E.The.Shawshank.Redemption.1994.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.1080p.BluRay.x264.%E6%B7%B1%E5%BD%B1%E8%AE%BA%E5%9D%9B%E5%BD%B1%E8%A7%86%E7%BB%84.mkv|3687528257|751AA04666D73547958BB4BA59AADBDF|h=OW6XZ54XPAMVONLUF4YI3SGDKHUVC7JA|/)    
 阿甘正传：[点此下载](magnet:?xt=urn:btih:657984BBC3F63EF6D87576199E10037A5C5C1D47&xl=1978685833&dn=%E9%98%BF%E7%94%98%E6%AD%A3%E4%BC%A0.rmvb)    
@@ -46,18 +46,18 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 <img src="/img/in-post/my_favorite_things/xixili.png" height="574" width="1000">      
 
 #### 日韩出品    
-还记得大一的时候第一次看野蛮师姐，第一次认识全智贤，那种感觉，很感动，同时也被她的另类美丽所吸引的，一种别的演绎不出来的美丽。这部剧当时反反复复我看了很多遍，依然很感动，这里不得不提的就是，里面的插曲[BK love](http://music.163.com/#/m/song?id=22839242&userid=106273967)，什么时候听，我都能想起全智贤那张清秀的脸，和那个感人的故事。 后来又看了雏菊，触不到的恋人 也都挺赞的。 孔刘的话是近期开始喜欢的一个男演员，当然是因为釜山行(Train to Busan)，这部虽说不是最好的僵尸剧，但是情节紧凑，节奏快，感人点突出，由它，我翻出了之前孔刘拍的 熔炉，这部更是感人至深，反映的当然都是丑陋的人性。
+还记得大一的时候第一次看野蛮师姐，第一次认识全智贤，那种感觉，很感动，同时也被她的另类美丽所吸引的，一种别的演绎不出来的美丽。这部剧当时反反复复我看了很多遍，依然很感动，提到野蛮师姐不得不提的就是，里面的插曲[BK love](http://music.163.com/#/m/song?id=22839242&userid=106273967)，什么时候听，我都能想起全智贤那张清秀的脸，和那个感人的故事。 后来又看了雏菊，触不到的恋人 也都挺赞的。 孔刘的话是近期开始喜欢的一个男演员，当然是因为釜山行(Train to Busan)，这部虽说不是最好的僵尸剧，但是情节紧凑，节奏快，感人点突出，由它，我翻出了之前孔刘拍的 熔炉，这部更是感人至深，反映的当然都是丑陋的人性。
 
 野蛮师姐：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGouMnR1LmNjOjIwMTExL1vRuMDXz8LU2Hd3dy4ydHUuY2Nd0rDC+cqmveMuSEQxMjgwuN/H5bqr0+/W0NfWLnJtdmJaWg==)    
 雏菊：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGouMnR1LmNjOjEwNTYyL1vRuMDXz8LU2Hd3dy4ydHUuY2Nds/u+1S5CRDEyODC438fluqvT79bQ19Yucm12Ylpa)
 <img src="/img/in-post/my_favorite_things/quanzhixian.png" height="625" width="793">  
 
 釜山行：[点此下载](ed2k://|file|Busanhaeng.(aka.Train.to.Busan).(2016).BD.MiniSD-TLF.mkv|1105294836|8845D4C72D23F09C4BB42B9EA439223B|h=XPPU2UVUOXEVBVN47457HRLB5YB74RZQ|/)    
-釜山行催泪原声带：[点此下载](https://pan.baidu.com/s/1o7IpLvc) 密码: hm8s        
+釜山行催泪原声带：[百度云盘](https://pan.baidu.com/s/1o7IpLvc) 密码: hm8s        
 熔炉：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGEueHVuYm8uY2M6MjAzNzAvW9G4wNfPwtTYd3d3Llh1bkJvLkNjXcjbwq8uMTAyNLjfx+W6q9Pv1tDX1i5ta3ZaWg==)
 <img src="/img/in-post/my_favorite_things/kongliu.png" height="546" width="864">    
 #### 内心强大的人才能看的电影
-这里的电影我都会特别的仔细看，体会主人公的心理状态，人生在世真的有很多的不得已，松子一句 **“生而在世，我很抱歉”**，包含了多少无奈，以及对自己的失望。李·钱德勒背负着痛苦的活在世上，一句承诺、一句不过脑的责骂，乃至于你不好的情绪或者不良的嗜好，足以改变你身边的某个人。泰德·丹尼尔 在禁闭岛的生活，对过去的否认，宁愿做一个植物也不愿意清醒的天天回忆过去，活在自责之中。所以请对身边的人好一些。 万能钥匙胆小的就别看了，带好安全帽也没用。    
+这里的电影我都会特别的仔细看，体会主人公的心理状态，人生在世真的有很多的不得已，松子一句 **“生而在世，我很抱歉”**，包含了多少无奈，以及对自己的失望。李·钱德勒背负着痛苦的活在世上，一句承诺、一句不过脑的责骂，乃至于你不好的情绪或者不良的嗜好，足以改变你身边的某个人。泰德·丹尼尔 在禁闭岛的生活，对过去的否认，宁愿做一个植物也不愿意清醒的面对回忆中的自己，深深的活在自责之中。所以请对身边的人好一些。 万能钥匙胆小的就别看了，带好安全帽也没用。    
 
 被嫌弃松子的一生：[点此下载](http://119.164.200.43/被嫌弃的松子的一生BD日语中字[电影天堂www.dy2018.com].mp4?fid=CA68xEvMPCOL0Fw5-fgjpsBZlfN2tSZrAAAAALYCDwPuXVl1sErEzuBQIMLErI2W&mid=666&threshold=150&tid=35D712FE5CB31361014D7304B55D5823&srcid=119&verno=1)    
 万能钥匙：[点此下载](http://192.168.1.105/万能钥匙BD中英双字[电影天堂www.dy2018.com].mp4?fid=zpq8bpe7uwTHuBe1MNWhpxEWzfWe0EJSAAAAAJwlh2OeMPfVhN9f3Qkm9Uoz4ccA&mid=666&threshold=150&tid=0F1FCF5EC9D8DB79DAC7FE772ABC13C4&srcid=119&verno=1)    
@@ -67,7 +67,19 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 **小李子系列：**   
 盗梦空间：[点此下载](magnet:?xt=urn:btih:cbe7470111555e9a948e1bfd705afdccfbbba36d)    
 革命之路：[点此下载](http://192.168.0.110/[迅雷下载www.2tu.cc]革命之路.BD1024高清中英双字.rmvb?fid=3pb3PdHbKtcDuSL7NhkXERc7a-F1YrE9AAAAAEnwQAfeL-lMyX7VQ1nykIO8kefJ&mid=666&threshold=150&tid=20433433C4F9813D838019FD671D377F&srcid=119&verno=1)    
-<img src="/img/in-post/my_favorite_things/xiaolizi.gif" height="208" width="500">   
+禁闭岛：[点击下载](thunder://QUFmdHA6Ly9keWdvZDE6ZHlnb2QxQGQwMDUuZHlnb2Qub3JnOjUwMTQvvfux1bW6LlvW0NOiy6vX1i4xMDI0t9ax5sLKXS9btefTsMzszMN3d3cuZHkyMDE4Lm5ldF29+7HVtbpCRNbQ06LLq9fWLnJtdmJaWg==)    
+<img src="/img/in-post/my_favorite_things/xiaolizi.gif" height="300" width="750">   
+
+
+#### 烧脑电影    
+这里面的电影，我的感受是，看一遍基本不知道到底是咋回事？（黑人问号脸），需要仔细的观察，注意细节，还要自己动脑去推理，然而...   然而，还是之能看懂60-70%，剩下的，就需要去[豆瓣](https://www.douban.com/)上面和小伙伴一起探讨啦。 不信的话，你试试下面第一个，感受一下穆赫兰道。    
+
+穆赫兰道：[点击下载](thunder://QUFmdHA6Ly9keTpkeUB4bGEueHVuYm8uY2M6MjA0MzUvW9G4wNfPwtTYd3d3Llh1bkJvLkNjXcTCutXAvLXALkJE1tDTosur19YxMDI0uN/H5S5ta3ZaWg==)    
+恐怖游轮：[点击下载](thunder://QUFmdHA6Ly9keWdvZDE6ZHlnb2QxQGQzMDAuZHlnb2QuY29tOjIzNzYvv9aywNPOwtYuW9bQ06LLq9fWLjEwMjS31rHmwspdL1u159OwzOzMw3d3dy5keWdvZC5jb21dv9aywNPOwtZCRNbQ06LLq9fWLnJtdmJaWg==)    
+记忆碎片：[点击下载](thunder://QUFlZDJrOi8vfGZpbGV8ob66w7/WssB3d3cuaGFva29uZ2J1LmNvbaG/vMfS5MvpxqwuSEQxMjgws6zH5bn60+/W0NOiy6vX1i5tcDR8MjA2MTYyNzI1OXw4OTEwRjQ2M0FERUM4RTNFM0I3MjlDREJFM0Q5QjJBQXxoPTRVQkZPUk1XRlg0SFJQWlo3SUZTVzJWSUZZUVJSQlE0fC9aWg==)    
+电锯惊魂1：[点击下载](thunder://QUFmdHA6Ly9keTpkeUB4bGouMnR1LmNjOjEwMDQ5L1vRuMDXz8LU2Hd3dy4ydHUuY2Ndtee+4r6qu+oxLkJEMTAyNLOsx+XW0NOiy6vX1i5ta3ZaWg==)    
+禁闭岛：[点击下载](thunder://QUFmdHA6Ly9keWdvZDE6ZHlnb2QxQGQwMDUuZHlnb2Qub3JnOjUwMTQvvfux1bW6LlvW0NOiy6vX1i4xMDI0t9ax5sLKXS9btefTsMzszMN3d3cuZHkyMDE4Lm5ldF29+7HVtbpCRNbQ06LLq9fWLnJtdmJaWg==)    
+<img src="/img/in-post/my_favorite_things/muhelandao.jpg" height="900" width="1200"> 
 
 #### 系列电影
 惊天魔盗团看了第一部，有点上瘾，后面就开始跟了，总的说，还是不错，有惊喜，有悬念，魔术本身也不单调啊，偶尔换换口味还是不错的，第二部里面有杰伦哦。速度与激情我感觉就不用多说了，说实话我是从第五部开始跟的，之前在`CCTV6`看过速度2，无感。 速度5人员齐全，情节也比较好。 但是跟了半截啊，我在速度里面最喜欢的演员，保罗·沃克出意外了。我在电影院看了两遍速度7，并且记住了一首歌，当然是`see U again`，永远的保罗，我真的觉得也许上帝也缺个靠谱的司机。
@@ -79,8 +91,8 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 速度与激情1-6：[点此下载](magnet:?xt=urn:btih:f18d58545ea7a9e93e4cd997a728ec55469f3d07)    
 速度与激情7：[点此下载](magnet:?xt=urn:btih:fba2d2eb7fa439c3989ec4927d94647b8ef7a023)    
-速度与激情8：[点此下载]( https://pan.baidu.com/s/1pLjXVyr) 密码：pka2    
-速度与激情8原声带：[点此下载](https://pan.baidu.com/s/1i4O54Lf) 密码：i8j3    
+速度与激情8：[百度云盘]( https://pan.baidu.com/s/1pLjXVyr) 密码：pka2    
+速度与激情8原声带：[百度云盘](https://pan.baidu.com/s/1i4O54Lf) 密码：i8j3    
 <img src="/img/in-post/my_favorite_things/sudu.png" height="574" width="995">    
 
 #### 国产电影精品
@@ -125,11 +137,13 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 士兵突击：[点此观看](http://www.soku.com/nt/search/q_士兵突击)    
 我的兄弟叫顺溜：[点此观看](http://www.soku.com/nt/search/q_我的兄弟叫顺溜)    
 <img src="/img/in-post/my_favorite_things/shibingtuji.png" height="619" width="939">     
-人民的名义：[点此观看](https://pan.baidu.com/s/1jHDEnvK) 密码：8je6      
+人民的名义：[百度云盘](https://pan.baidu.com/s/1jHDEnvK) 密码：8je6      
 <img src="/img/in-post/my_favorite_things/renmindemingyi.jpg" height="280" width="960"> 
 #### 美剧
-权利的游戏我是从第六季看的，看之前恶补了之前五季，相当精彩啊，喜欢囧雪诺的勇往直前，龙女的AOE(每次都死不少)，瑟后的绝对控制，以及各国之间的斗争，有点类似于三国，但是里面加入了很多新鲜的东西，画面很不错，有狼、异鬼、巨人、野人，不多剧透了。    
-权力的游戏：[点此下载](http://www.llduang.com/37822.html)
+权利的游戏我是从第六季看的，看之前恶补了之前五季，相当精彩啊，喜欢囧雪诺的勇往直前，龙女的AOE(每次都死不少)，瑟后的绝对控制，以及各国之间的斗争，有点类似于三国，但是里面加入了很多新鲜的东西，画面很不错，有狼、异鬼、巨人、野人，不多剧透了。这里强烈推荐一下黑镜，一共三季，每集都是一个单独的故事，反映别人性，看完你会觉得人性的故事原来一直在我们身边发生着。 禁忌现在还正在看，豆瓣评分很高，估计不会让我失望。 
+        
+权力的游戏：[点此下载](http://www.llduang.com/37822.html)    
+黑镜三季全集：[百度云盘](http://pan.baidu.com/s/1sldiuy5)  密码：jfz2        
 禁忌：[点此下载](http://www.llduang.com/72394.html)    
 <img src="/img/in-post/my_favorite_things/quanli_jinji.png" height="534" width="874">    
 ## 喜欢的网站
@@ -156,15 +170,30 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 我大Github当然要当选，计算机从业者的最爱，太多的好东西，太多的干货，需要自己去淘，不太不用掏钱，完全开源的。这就好比去超市去拿你需要的东西，拿完了，还不要钱，你说High不High？ 
 
 ## 喜欢的歌手    
-林俊杰&周杰伦&陈奕迅    
+**林俊杰&周杰伦&陈奕迅**    
 <img src="/img/in-post/my_favorite_things/jj_jchou_eason.png" height="496" width="1237">  
 
 #### 喜欢的歌单    
+无乱干什么都喜欢听着歌，感觉歌曲可以提高效率，当然了，不同的场景需要听不同种类的歌曲，下面推荐几个我自己整理的歌单，你也不妨试试。
+
+**『人生若只如初見☂』:** [点击试听](http://music.163.com/#/m/playlist?id=161702581&userid=106273967)    
+**『瞬间放松你得 Soul ☂』：** [点击试听](http://music.163.com/#/m/playlist?id=393996559&userid=106273967)    
+**『 Piano&Cello☂』：** [点击试听](http://music.163.com/#/m/playlist?id=405529446&userid=106273967)    
+**『纯音 ☂』:** [点击试听](http://music.163.com/#/m/playlist?id=407217447&userid=106273967)    
+**『国语精品☂』：** [点击试听](http://music.163.com/#/m/playlist?id=161689671&userid=106273967)    
+**『慢摇 ☂』：** [点击试听](http://music.163.com/#/m/playlist?id=516128188&userid=106273967)
 
 ## 喜欢的物件    
+电子产品，机械键盘，鼠标，显示器，这些东西如果实在能力范围内，我都把自己最喜欢的带回来。目前Filco 67键茶轴机械键盘，天天深夜，静静的，听着歌，敲敲代码，听着机械键盘哒..哒..哒的声音会让我感觉思维无比活跃，心情无比舒畅。  无图无真相，我就喜欢它这么美腻的样子。    
+<img src="/img/in-post/my_favorite_things/jianpan.png" height="260" width="963"> 
 
-## 喜欢的动漫    
+## 喜欢的动漫   
+关于这个爱好，可能认识我得人大部分都知道，当然是火影，嗯，火影忍者。这部动漫我记得我是从200集左右才开始跟的，记得那时候刚毕业，恶补了前面200集，从此迷上了火影。 日本动漫其实多数的主角的特点都是：并不是天才，努力上进，心地善良三关正，剧中的鸣人就是典型的例子。 成长的过程描写的很细腻，知道了有种东西叫做 “羁绊”。除了主人公[鸣人(Naruto)](http://baike.baidu.com/item/漩涡鸣人?fromtitle=鸣人&fromid=448077)之外，[自来也(Jiraiya)](http://baike.baidu.com/item/自来也/7041)、[宇智波鼬(Uchiha Itachi)](http://baike.baidu.com/item/宇智波鼬/488821?)，[波风水门(Namikaze Minato)](http://baike.baidu.com/item/波风水门)我也是特别喜欢的,要明白做男人就应该有所觉悟，要有担当，为了保护自己的家庭可能还会有所牺牲，会承担委屈，背负不正之名，要善良，三观正，勇往直前，直到最后一刻。这么做到底是为了什么？  玉。  那么问题来了，你心中藏着的玉，是谁呢？    
 
+现在火影700画全部结束了，所有的剧场版我也都看过了。 我觉得以后不会再看别的动漫了，一生只爱火影。    
+<img src="/img/in-post/my_favorite_things/huoyingshuaige.png" height="472" width="1017">   
+
+好了，资源在这，自己来取。 [传送门](http://www.llduang.com/73531.html)
 ## 结束语
-虽说的是我最喜欢的，你了解了我，但也许也是你最喜欢的。暂且把这篇当作干货分享就好，起码省得你去网上费劲找资源啦，也谢谢大家费时间认识我。 
+虽说的是我最喜欢的，但也许也是你最喜欢的。暂且把这篇当作干货分享就好，起码省得你去网上费劲找资源啦，也谢谢大家花时间认识我。 
    

@@ -63,7 +63,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 万能钥匙：[点此下载](http://192.168.1.105/万能钥匙BD中英双字[电影天堂www.dy2018.com].mp4?fid=zpq8bpe7uwTHuBe1MNWhpxEWzfWe0EJSAAAAAJwlh2OeMPfVhN9f3Qkm9Uoz4ccA&mid=666&threshold=150&tid=0F1FCF5EC9D8DB79DAC7FE772ABC13C4&srcid=119&verno=1)    
 狩猎：[点此下载](http://100.74.249.63/[电影天堂-www.dy2018.net].狩猎.BD.1280x720.中英双字幕.rmvb?fid=WsAJs9U-7UU1Rat79Tuovdi6AsHBHo5LAAAAABIapvjKgkva9h9NBFEhTL2Hs2n0&mid=666&threshold=150&tid=1A696661AF63084F1A4FF7BA6CF8514D&srcid=119&verno=1)    
 海边的曼彻斯特：[点此下载](thunder://QUFmdHA6Ly9xOnFAZHlnb2QxOC5jb206MzUyMS9bJUU3JTk0JUI1JUU1JUJEJUIxJUU1JUE0JUE5JUU1JUEwJTgyd3d3LmR5MjAxOC5jb21dJUU2JUI1JUI3JUU4JUJFJUI5JUU3JTlBJTg0JUU2JTlCJUJDJUU1JUJEJUJCJUU2JTk2JUFGJUU3JTg5JUI5QkQlRTQlQjglQUQlRTglOEIlQjElRTUlOEYlOEMlRTUlQUQlOTcucm12Ylpa)    
-<img src="/img/in-post/my_favorite_things/songzi.png" height="566" width="993">  
+<img src="/img/in-post/my_favorite_things/songzi.png" height="566" width="993">
 **小李子系列：**   
 盗梦空间：[点此下载](magnet:?xt=urn:btih:cbe7470111555e9a948e1bfd705afdccfbbba36d)    
 革命之路：[点此下载](http://192.168.0.110/[迅雷下载www.2tu.cc]革命之路.BD1024高清中英双字.rmvb?fid=3pb3PdHbKtcDuSL7NhkXERc7a-F1YrE9AAAAAEnwQAfeL-lMyX7VQ1nykIO8kefJ&mid=666&threshold=150&tid=20433433C4F9813D838019FD671D377F&srcid=119&verno=1)    
@@ -106,9 +106,8 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 智取威虎山：[点此观看](http://www.soku.com/nt/search/q_智取威虎山)    
 风声：[点此观看](http://www.soku.com/nt/search/q_风声)    
 厨子痞子戏子：[点此观看](http://video.tudou.com/v/XNTU0NTQyNzQw.html?spm=a2h0k.8191414.0.0)
-<img src="/img/in-post/my_favorite_things/chuzixizipizi.jpg" height="655" width="1000">  
-<img src="/img/in-post/my_favorite_things/xizi.jpg" height="665" width="1000"> 
-
+<img src="/img/in-post/my_favorite_things/chuzixizipizi.jpg" height="655" width="1000">
+<img src="/img/in-post/my_favorite_things/xizi.jpg" height="665" width="1000">    
 #### 国产叛逆系列
 论叛逆，这里当然少不了冯小刚，姜文，王朔此类人物，这些电影虽说都是早期的电影，但是反映的东西还是挺真实的，和当时的社会背景其实都挺符合的，看上去也比较接地气，演技也都不错，有时间看看，也挺有意思的。
 

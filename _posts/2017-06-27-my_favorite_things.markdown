@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Something I Like"
-subtitle:   "My Favorite Things"
+subtitle:   "The Favorite Things Of Mine"
 date:       2017-06-27 00:29:07
 author:     "Boomballa"
 header-img: "img/in-post/my_favorite_things/naruto.png"

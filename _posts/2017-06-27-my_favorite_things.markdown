@@ -72,7 +72,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 
 #### 烧脑电影    
-这里面的电影，我的感受是，看一遍基本不知道到底是咋回事？（黑人问号脸），需要仔细的观察，注意细节，还要自己动脑去推理，然而...   然而，还是之能看懂60-70%，剩下的，就需要去[豆瓣](https://www.douban.com/)上面和小伙伴一起探讨啦。 不信的话，你试试下面第一个，感受一下穆赫兰道。    
+这里面的电影，我的感受是，看一遍基本不知道到底是咋回事？（黑人问号脸），需要仔细的观察，注意细节，还要自己动脑去推理，看个2-3遍，然而...   然而，还是只能看懂60-70%，剩下的，就需要去[豆瓣](https://www.douban.com/)上面和小伙伴一起探讨啦。 不信的话，你试试下面第一个，感受一下穆赫兰道。    
 
 穆赫兰道：[点击下载](thunder://QUFmdHA6Ly9keTpkeUB4bGEueHVuYm8uY2M6MjA0MzUvW9G4wNfPwtTYd3d3Llh1bkJvLkNjXcTCutXAvLXALkJE1tDTosur19YxMDI0uN/H5S5ta3ZaWg==)    
 恐怖游轮：[点击下载](thunder://QUFmdHA6Ly9keWdvZDE6ZHlnb2QxQGQzMDAuZHlnb2QuY29tOjIzNzYvv9aywNPOwtYuW9bQ06LLq9fWLjEwMjS31rHmwspdL1u159OwzOzMw3d3dy5keWdvZC5jb21dv9aywNPOwtZCRNbQ06LLq9fWLnJtdmJaWg==)    

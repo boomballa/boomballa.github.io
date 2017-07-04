@@ -4,7 +4,7 @@ title:      "Something I Like"
 subtitle:   "The Favorite Things Of Mine"
 date:       2017-06-27 00:29:07
 author:     "Boomballa"
-header-img: "img/in-post/my_favorite_things/naruto.png"
+header-img: "img/in-post/my_favorite_things/naruto.jpg"
 catalog:    true
 tags:
     - Life
@@ -55,7 +55,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 釜山行：[点此下载](ed2k://|file|Busanhaeng.(aka.Train.to.Busan).(2016).BD.MiniSD-TLF.mkv|1105294836|8845D4C72D23F09C4BB42B9EA439223B|h=XPPU2UVUOXEVBVN47457HRLB5YB74RZQ|/)    
 釜山行催泪原声带：[百度云盘](https://pan.baidu.com/s/1o7IpLvc) 密码: hm8s        
 熔炉：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGEueHVuYm8uY2M6MjAzNzAvW9G4wNfPwtTYd3d3Llh1bkJvLkNjXcjbwq8uMTAyNLjfx+W6q9Pv1tDX1i5ta3ZaWg==)
-<img src="/img/in-post/my_favorite_things/kongliu.png" height="546" width="864">    
+<img src="/img/in-post/my_favorite_things/kongliu.jpg" height="546" width="864">    
 #### 内心强大的人才能看的电影
 这里的电影我都会特别的仔细看，体会主人公的心理状态，人生在世真的有很多的不得已，松子一句 **“生而在世，我很抱歉”**，包含了多少无奈，以及对自己的失望。李·钱德勒背负着痛苦的活在世上，一句承诺、一句不过脑的责骂，乃至于你不好的情绪或者不良的嗜好，足以改变你身边的某个人。泰德·丹尼尔 在禁闭岛的生活，对过去的否认，宁愿做一个植物也不愿意清醒的面对回忆中的自己，深深的活在自责之中。所以请对身边的人好一些。 万能钥匙胆小的就别看了，带好安全帽也没用。    
 
@@ -87,7 +87,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 惊天魔盗团1：[点此下载](thunder://QUFmdHA6Ly95OnlAZHguZGwxMjM0LmNvbTo4MDA2L1u159OwzOzMw3d3dy5keTIwMTguY29tXb6qzOzEp7XBzcVCRNbQ06LLq9fWteSy2LDmLnJtdmJaWg==)    
 惊天魔盗团2：[点此下载](ed2k://|file|%E6%83%8A%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A22.2016.720p%E9%AB%98%E6%B8%85%E8%8B%B1%E8%AF%AD%E4%B8%AD%E8%8B%B1%E5%8F%8C%E5%AD%97%5BBT%E5%93%A5%20www.btge.cc%5D(ED2000.COM).mp4|2156873735|20C6E45B3EB249A8382FFB6DD06ACCB9|/
 )    
-<img src="/img/in-post/my_favorite_things/modaotuan.png" height="574" width="995">  
+<img src="/img/in-post/my_favorite_things/modaotuan.jpg" height="574" width="995">  
 
 速度与激情1-6：[点此下载](magnet:?xt=urn:btih:f18d58545ea7a9e93e4cd997a728ec55469f3d07)    
 速度与激情7：[点此下载](magnet:?xt=urn:btih:fba2d2eb7fa439c3989ec4927d94647b8ef7a023)    
@@ -123,7 +123,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 鹬 Piper：[点此下载](magnet:?xt=urn:btih:F434EC5D876A11DF911C6781A863C38BEDDA9E04)    
 疯狂动物城：[点此下载](magnet:?xt=urn:btih:343a204131bb8ecf09566e93151df7d142174fac)
-<img src="/img/in-post/my_favorite_things/piper.png" height="567" width="1182">    
+<img src="/img/in-post/my_favorite_things/piper.jpg" height="567" width="1182">    
 
 #### 国剧
 这里面都是我在北京闲余时间，看了好几遍的电视剧，每次看都会有不同的感悟，不知道为什么喜欢看军队里面的故事，这里有耳熟能详的许三多，也有嗜血战斗英雄顺溜(还是他)，还有逢敌必亮剑，绝不含糊的李云龙，楚云飞曾送他一句诗：“痛饮狂歌空度日，飞扬跋扈为谁雄”。 人民的名义是最近才开播的，达康书记瞬间红遍了大江南北，看老戏骨飙戏真的很过瘾呢，一颦一笑和心里斗争表现的都特别好，值得一看。 最后来说说血色浪漫吧，应该算是最喜欢的电视剧之一了，对那个年代的背景和那个年代的北京交待的很清楚，钟跃民的放荡不羁爱自由，永远活在过程中的男人，从青涩到大家成人而立，和社会给大家带来的伤疤，当然，还有痛。
@@ -170,7 +170,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 ## 喜欢的歌手    
 **林俊杰&周杰伦&陈奕迅**    
-<img src="/img/in-post/my_favorite_things/jj_jchou_eason.png" height="496" width="1237">  
+<img src="/img/in-post/my_favorite_things/jj_jchou_eason.jpg" height="496" width="1237">  
 
 #### 喜欢的歌单    
 无乱干什么都喜欢听着歌，感觉歌曲可以提高效率，当然了，不同的场景需要听不同种类的歌曲，下面推荐几个我自己整理的歌单，你也不妨试试。
@@ -184,15 +184,21 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 ## 喜欢的物件    
 电子产品，机械键盘，鼠标，显示器，这些东西如果实在能力范围内，我都把自己最喜欢的带回来。目前Filco 67键茶轴机械键盘，天天深夜，静静的，听着歌，敲敲代码，听着机械键盘哒..哒..哒的声音会让我感觉思维无比活跃，心情无比舒畅。  无图无真相，我就喜欢它这么美腻的样子。    
-<img src="/img/in-post/my_favorite_things/jianpan.png" height="260" width="963"> 
+<img src="/img/in-post/my_favorite_things/jianpan.jpg" height="260" width="963"> 
 
 ## 喜欢的动漫   
 关于这个爱好，可能认识我得人大部分都知道，当然是火影，嗯，火影忍者。这部动漫我记得我是从200集左右才开始跟的，记得那时候刚毕业，恶补了前面200集，从此迷上了火影。 日本动漫其实多数的主角的特点都是：并不是天才，努力上进，心地善良三关正，剧中的鸣人就是典型的例子。 成长的过程描写的很细腻，知道了有种东西叫做 “羁绊”。除了主人公[鸣人(Naruto)](http://baike.baidu.com/item/漩涡鸣人?fromtitle=鸣人&fromid=448077)之外，[自来也(Jiraiya)](http://baike.baidu.com/item/自来也/7041)、[宇智波鼬(Uchiha Itachi)](http://baike.baidu.com/item/宇智波鼬/488821?)，[波风水门(Namikaze Minato)](http://baike.baidu.com/item/波风水门)我也是特别喜欢的,要明白做男人就应该有所觉悟，要有担当，为了保护自己的家庭可能还会有所牺牲，会承担委屈，背负不正之名，要善良，三观正，勇往直前，直到最后一刻。这么做到底是为了什么？  玉。  那么问题来了，你心中藏着的玉，是谁呢？    
 
 现在火影720画全部结束了，所有的剧场版我也都看过了。 我觉得以后不会再看别的动漫了，一生只爱火影。    
-<img src="/img/in-post/my_favorite_things/huoyingshuaige.png" height="472" width="1017">   
+<img src="/img/in-post/my_favorite_things/huoyingshuaige.jpg" height="472" width="1017">   
 
-好了，资源在这，自己来取。 [传送门](http://www.llduang.com/73531.html)
+好了，资源在这，自己来取。 [传送门](http://www.llduang.com/73531.html)    
+
+## 最喜欢的球员和球队    
+[蒂埃里·亨利](https://zh.wikipedia.org/wiki/%E8%92%82%E5%9F%83%E9%87%8C%C2%B7%E4%BA%A8%E5%88%A9),[兵工厂阿森纳](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%A3%AE%E7%BA%B3%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8)，没有之一，他们是我最喜欢的球员和球队，那时候的亨利还在海布里，他是那里的国王，和永贝里，皮雷，维埃拉，阿什利科尔等等一起缔造了英超49场不败的神话，36胜，13平，49场比赛中攻入147球，49场不败历时539天(77星期)，我也因此对足球产生了浓厚的兴趣。感谢亨利，致敬海布里。虽然现在的主场已经变成酋长球场了，但我一直有个愿望，有朝一日，我一定要去趟伦敦看场阿森纳主场的球，一定。    
+<img src="/img/in-post/my_favorite_things/henry.jpg" height="698" width="1024">     
+**32岁的亨利就坐在那里，远远的望过去，都是自己22岁的影子... ...**
+
 ## 结束语
-虽说的是我最喜欢的，但也许也是你最喜欢的。暂且把这篇当作干货分享就好，起码省得你去网上费劲找资源啦，也谢谢大家花时间认识我。 
+这些就是我最喜欢的，也许也是你最喜欢的。暂且把这篇当作干货分享就好，起码省得你去网上费劲找资源啦，也谢谢大家花时间认识我。 
    

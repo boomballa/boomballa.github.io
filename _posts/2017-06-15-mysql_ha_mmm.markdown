@@ -39,7 +39,7 @@ MMM使用手册地址：[传送门](http://mysql-mmm.org/mysql-mmm.html)
 
 首先安装一下`epel`的yum源，在`monitor-slave`上安装`monitor`和`agent`，在`master1`和`master2`上安装`agent`。
 
-CentOS6
+**CentOS6**
 
 1.`monitor-slave`的安装
 ```shell
@@ -53,7 +53,7 @@ rpm -ivh http://mirror01.idc.hinet.net/EPEL/6/x86_64/epel-release-6-8.noarch.rpm
 yum install mysql-mmm-agent -y
 ```
 
-CentOS7
+**CentOS7**
 
 1.`monitor-slave`的安装
 ```shell

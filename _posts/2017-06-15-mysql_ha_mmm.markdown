@@ -252,7 +252,22 @@ log4perl.appender.MMMLog.layout.ConversionPattern = %d %5p %m%n
 #log4perl.appender.MailFatal.subject = FATAL error in mysql-mmm-monitor
 #log4perl.appender.MailFatal.layout = PatternLayout
 #log4perl.appender.MailFatal.layout.ConversionPattern = %d %m%n
+```    
+#### MMM Monitor和Agent启动    
+
+Agent节点上只需要配置 `mmm_agent.conf`和`mmm_common.conf`，`Monitor`上除了刚才那两个配置文件，还需要配置`mmm_mon.conf`和`mmm_mon_log.conf`。注意`Monitor`和`Agent`的`mmm_agent.conf`和`mmm_common.conf`信息要保持一致。
+
+各个Agent节点上启动agent进程：
 ```
+[shell ~]# /etc/init.d/mysql-mmm-agent  start
+
+```    
+
+`Monitor`节点启动monitor进程：   
+```
+[shell ~]# /etc/init.d/mysql-mmm-monitor  start
+
+```   
 
 #### MMM 常用命令的使用和说明
 

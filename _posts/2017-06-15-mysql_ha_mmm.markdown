@@ -258,16 +258,32 @@ log4perl.appender.MMMLog.layout.ConversionPattern = %d %5p %m%n
 Agent节点上只需要配置 `mmm_agent.conf`和`mmm_common.conf`，`Monitor`上除了刚才那两个配置文件，还需要配置`mmm_mon.conf`和`mmm_mon_log.conf`。注意`Monitor`和`Agent`的`mmm_agent.conf`和`mmm_common.conf`信息要保持一致。
 
 各个Agent节点上启动agent进程：
-```
+```shell
 [shell ~]# /etc/init.d/mysql-mmm-agent  start
-
 ```    
 
 `Monitor`节点启动monitor进程：   
-```
+```shell
 [shell ~]# /etc/init.d/mysql-mmm-monitor  start
-
 ```   
+
+备注：这里需要注意一下，如果你的环境是CentOS7，那么需要先添加启动项，然后启动： 
+
+`Agent`节点上：       
+```shell
+[shell ~]# systemctl enable mysql-mmm-agent
+[shell ~]# systemctl starat mysql-mmm-agent
+[shell ~]#
+[shell ~]#
+```
+
+`Monitor`节点上：               
+```shell
+[shell ~]# systemctl enable mysql-mmm-agent
+[shell ~]# systemctl starat mysql-mmm-agent
+[shell ~]# systemctl enable mysql-mmm-monitor
+[shell ~]# systemctl start mysql-mmm-monitor
+```    
 
 #### MMM 常用命令的使用和说明
 

@@ -272,13 +272,13 @@ Agent节点上只需要配置 `mmm_agent.conf`和`mmm_common.conf`，`Monitor`�
 `Agent`节点上：       
 ```shell
 [shell ~]# systemctl enable mysql-mmm-agent
-[shell ~]# systemctl starat mysql-mmm-agent
+[shell ~]# systemctl start mysql-mmm-agent
 ```
 
 `Monitor`节点上：               
 ```shell
 [shell ~]# systemctl enable mysql-mmm-agent
-[shell ~]# systemctl starat mysql-mmm-agent
+[shell ~]# systemctl start mysql-mmm-agent
 [shell ~]# systemctl enable mysql-mmm-monitor
 [shell ~]# systemctl start mysql-mmm-monitor
 ```    

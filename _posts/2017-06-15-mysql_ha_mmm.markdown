@@ -133,28 +133,28 @@ active_master_role      writer
 - active_master_role     在线主机的角色 writer/reader，设置为`writer`，就是为可写的主机，`reader`则会被设置为`read_only=1`    
     
 `<host default>`   
-- cluster_interface       集群绑定虚拟IP的网卡    
-- pid_path                pid文件存放目录    
-- bin_path                bin的存放目录    
-- replication_user        集群复制账户名称    
-- replication_password    集群复制账户密码    
-- agent_user              agent用户账户名称    
-- agent_password          agent用户账户密码    
+- cluster_interface　　　集群绑定虚拟IP的网卡    
+- pid_path　　　　　　　　pid文件存放目录    
+- bin_path　　　　　　　　bin的存放目录    
+- replication_user　　　　集群复制账户名称    
+- replication_password　　集群复制账户密码    
+- agent_user　　　　　　agent用户账户名称    
+- agent_password　　　　agent用户账户密码    
 
 `<host role_name>`    
-- ip      角色IP地址    
-- mode    角色模式 master/slave    
-- peer    监视主机的角色，不要指定本机，指定除了本机以外的角色    
+- ip　　　　角色IP地址    
+- mode　　　角色模式 master/slave    
+- peer　　　监视主机的角色，不要指定本机，指定除了本机以外的角色    
     
 `<role writer>`    
-- hosts   可以成为写入节点的IP地址
-- ips     写入节点的虚拟IP，只可在一台master上面出现
-- mode    写入角色的运行模式 exclusive(独占模式)/balanced(均衡模式)，写入节点一般设置单点写入exclusive(独占模式)。 
+- hosts　　可以成为写入节点的IP地址
+- ips　　　写入节点的虚拟IP，只可在一台master上面出现
+- mode　　　写入角色的运行模式 exclusive(独占模式)/balanced(均衡模式)，写入节点一般设置单点写入exclusive(独占模式)。 
 
 `<role reader>`
-- hosts   读节点的所有IP地址
-- ips     读角色虚拟IP地址，可以设置多个
-- mode    读角色的运行模式 exclusive(独占模式)/balanced(均衡模式)，读节点一般设置轮询balanced(均衡模式)。   
+- hosts　　读节点的所有IP地址
+- ips　　　读角色虚拟IP地址，可以设置多个
+- mode　　　读角色的运行模式 exclusive(独占模式)/balanced(均衡模式)，读节点一般设置轮询balanced(均衡模式)。   
 
 ##### mmm_agent.conf
 `mmm_agent.conf`这个文件是指定该机器的角色的,`mmm_common.conf`中指定该台机器是什么角色，就在次配置文件配置，该台展示配置文件服务器角色为`db3`,内容如下：
@@ -172,8 +172,8 @@ this db3
 
 配置文件`mmm_agent.conf`中配置解读，这里面只有两个有效配置：
 
-- include 此项为默认，保持默认即可
-- this 此处指定该机器角色即可 
+- include　　此项为默认，保持默认即可
+- this　　　　此处指定该机器角色即可 
 
 
 ##### mmm_mon.conf
@@ -214,17 +214,17 @@ debug 0
 - include mmm_common.conf，此项保持默认即可
 
 `<monitor>`
-- ip                  一般设置127.0.0.1，monitor本机就可以。
-- pid_path            monitor进程pid文件位置
-- bin_path            monitor进程bin文件位置
-- status_path         monitor status文件存放位置
-- ping_ips            设置集群中比较重要的数据库服务器节点IP地址即可
-- auto_set_online     判断为online状态的轮询时间
-- mode                monitor模式，active(自动)/manual(手动)/passive(被动)    
+- ip　　　　　　　　　一般设置127.0.0.1，monitor本机就可以。
+- pid_path　　　　　　monitor进程pid文件位置
+- bin_path　　　　　　monitor进程bin文件位置
+- status_path　　　　 　monitor status文件存放位置
+- ping_ips　　　　　　设置集群中比较重要的数据库服务器节点IP地址即可
+- auto_set_online　　 　判断为online状态的轮询时间
+- mode　　　　　　　　monitor模式，active(自动)/manual(手动)/passive(被动)    
 
 `<host default>`
-- monitor_user        monitor用户名称
-- monitor_password    monitor用户密码    
+- monitor_user		  monitor用户名称
+- monitor_password	  monitor用户密码    
     
     
 - debug 是否为调试模式，0(否)/1(是)    
@@ -425,9 +425,9 @@ OK: State of 'db1' changed to ADMIN_OFFLINE. Now you can wait some time and chec
 
 查看当前模式，一共有三种模式，`ACTIVE/PASSIVE/MANUAL`。
 
-- ACTIVE 自动模式，如果`monitor`判断写入节点或者读节点数据库有故障，降自动把虚拟IP和角色配置到配置文件中可用的机器上。
-- PASSIVE 被动模式，设置为被动模式，一般是为了调试。
-- MANUAL 手动模式，如果节点发生故障，需要根据需要手动把角色转移到可用的节点上去。
+- ACTIVE　　自动模式，如果`monitor`判断写入节点或者读节点数据库有故障，降自动把虚拟IP和角色配置到配置文件中可用的机器上。
+- PASSIVE　　被动模式，设置为被动模式，一般是为了调试。
+- MANUAL　　手动模式，如果节点发生故障，需要根据需要手动把角色转移到可用的节点上去。
 
 下面示例中为`ACTIVE`模式:
 

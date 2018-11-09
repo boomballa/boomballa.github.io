@@ -43,7 +43,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 西西里的美丽传说：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGEuMnR1LmNjOjIwNDg3L1vRuMDXz8LU2Hd3dy4ydHUuY2NdzvfO98DvtcTDwMD2tKvLtS5CRDEyODC438fl1tDTosur19Yucm12Ylpa)    
 星际穿越：[点此下载](magnet:?xt=urn:btih:7A65487E638A3404294FE4C996D4A952F99398B0)    
 
-<img src="/img/in-post/my_favorite_things/xixili.png" height="574" width="1000">      
+<img src="/img/in-post/my_favorite_things/xixili.jpg" height="574" width="1000">      
 
 #### 日韩出品    
 还记得大一的时候第一次看野蛮师姐，第一次认识全智贤，那种感觉，很感动，同时也被她的另类美丽所吸引的，一种别的演绎不出来的美丽。这部剧当时反反复复我看了很多遍，依然很感动，提到野蛮师姐不得不提的就是，里面的插曲[BK love](http://music.163.com/#/m/song?id=22839242&userid=106273967)，什么时候听，我都能想起全智贤那张清秀的脸，和那个感人的故事。 后来又看了雏菊，触不到的恋人 也都挺赞的。 孔刘的话是近期开始喜欢的一个男演员，当然是因为釜山行(Train to Busan)，这部虽说不是最好的僵尸剧，但是情节紧凑，节奏快，感人点突出，由它，我翻出了之前孔刘拍的 熔炉，这部更是感人至深，反映的当然都是丑陋的人性。

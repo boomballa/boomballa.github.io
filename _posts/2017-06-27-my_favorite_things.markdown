@@ -50,7 +50,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 野蛮师姐：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGouMnR1LmNjOjIwMTExL1vRuMDXz8LU2Hd3dy4ydHUuY2Nd0rDC+cqmveMuSEQxMjgwuN/H5bqr0+/W0NfWLnJtdmJaWg==)    
 雏菊：[点此下载](thunder://QUFmdHA6Ly9keTpkeUB4bGouMnR1LmNjOjEwNTYyL1vRuMDXz8LU2Hd3dy4ydHUuY2Nds/u+1S5CRDEyODC438fluqvT79bQ19Yucm12Ylpa)
-<img src="/img/in-post/my_favorite_things/quanzhixian.png" height="625" width="793">  
+<img src="/img/in-post/my_favorite_things/quanzhixian.jpg" height="625" width="793">  
 
 釜山行：[点此下载](ed2k://|file|Busanhaeng.(aka.Train.to.Busan).(2016).BD.MiniSD-TLF.mkv|1105294836|8845D4C72D23F09C4BB42B9EA439223B|h=XPPU2UVUOXEVBVN47457HRLB5YB74RZQ|/)    
 釜山行催泪原声带：[百度云盘](https://pan.baidu.com/s/1o7IpLvc) 密码: hm8s        
@@ -63,7 +63,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 万能钥匙：[点此下载](http://192.168.1.105/万能钥匙BD中英双字[电影天堂www.dy2018.com].mp4?fid=zpq8bpe7uwTHuBe1MNWhpxEWzfWe0EJSAAAAAJwlh2OeMPfVhN9f3Qkm9Uoz4ccA&mid=666&threshold=150&tid=0F1FCF5EC9D8DB79DAC7FE772ABC13C4&srcid=119&verno=1)    
 狩猎：[点此下载](http://100.74.249.63/[电影天堂-www.dy2018.net].狩猎.BD.1280x720.中英双字幕.rmvb?fid=WsAJs9U-7UU1Rat79Tuovdi6AsHBHo5LAAAAABIapvjKgkva9h9NBFEhTL2Hs2n0&mid=666&threshold=150&tid=1A696661AF63084F1A4FF7BA6CF8514D&srcid=119&verno=1)    
 海边的曼彻斯特：[点此下载](thunder://QUFmdHA6Ly9xOnFAZHlnb2QxOC5jb206MzUyMS9bJUU3JTk0JUI1JUU1JUJEJUIxJUU1JUE0JUE5JUU1JUEwJTgyd3d3LmR5MjAxOC5jb21dJUU2JUI1JUI3JUU4JUJFJUI5JUU3JTlBJTg0JUU2JTlCJUJDJUU1JUJEJUJCJUU2JTk2JUFGJUU3JTg5JUI5QkQlRTQlQjglQUQlRTglOEIlQjElRTUlOEYlOEMlRTUlQUQlOTcucm12Ylpa)    
-<img src="/img/in-post/my_favorite_things/songzi.png" height="566" width="993">
+<img src="/img/in-post/my_favorite_things/songzi.jpg" height="566" width="993">
 **小李子系列：**   
 盗梦空间：[点此下载](magnet:?xt=urn:btih:cbe7470111555e9a948e1bfd705afdccfbbba36d)    
 革命之路：[点此下载](http://192.168.0.110/[迅雷下载www.2tu.cc]革命之路.BD1024高清中英双字.rmvb?fid=3pb3PdHbKtcDuSL7NhkXERc7a-F1YrE9AAAAAEnwQAfeL-lMyX7VQ1nykIO8kefJ&mid=666&threshold=150&tid=20433433C4F9813D838019FD671D377F&srcid=119&verno=1)    
@@ -93,7 +93,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 速度与激情7：[点此下载](magnet:?xt=urn:btih:fba2d2eb7fa439c3989ec4927d94647b8ef7a023)    
 速度与激情8：[百度云盘]( https://pan.baidu.com/s/1pLjXVyr) 密码：pka2    
 速度与激情8原声带：[百度云盘](https://pan.baidu.com/s/1i4O54Lf) 密码：i8j3    
-<img src="/img/in-post/my_favorite_things/sudu.png" height="574" width="995">    
+<img src="/img/in-post/my_favorite_things/sudu.jpg" height="574" width="995">    
 
 #### 国产电影精品
 
@@ -116,7 +116,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 鬼子来了：[点此下载](ed2k://|file|%E9%AC%BC%E5%AD%90%E6%9D%A5%E4%BA%86.rmvb|1937080449|B889E0C36A0492AC6DDD35A70906866C|/)    
 盲山：[点此下载](ed2k://|file|%5B66%E5%BD%B1%E8%A7%86www.66yc.cc%5D%E7%9B%B2%E5%B1%B1.Blind.Mountain.2007.DVDRip.mkv|1332918321|DE51BE46AF127F674FB5D020665D932F|/)    
 盲井：[点此下载](ed2k://|file|(92np.com)%E7%9B%B2%E4%BA%95.DVD%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97(ED2000.COM).mp4|1406129964|C448CCBC56D8710AE3A3C57092F39526|/)    
-<img src="/img/in-post/my_favorite_things/mache.png" height="393" width="678"> 
+<img src="/img/in-post/my_favorite_things/mache.jpg" height="393" width="678"> 
 
 #### 萌剧
 这些其实都是我给我姑娘找的，但是不知不觉我也看了好几遍，现在熊大熊二，什么春日对对碰，冬季乐翻天啊，几乎每集我都看过，相比那些，我还是想让她看些比较有意义的东西，哪怕画面精致一下，也是视觉享受啊。
@@ -130,12 +130,12 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 
 血色浪漫：[点此观看](http://www.soku.com/nt/search/q_血色浪漫)    
 亮剑：[点此观看](http://www.soku.com/nt/search/q_亮剑)    
-<img src="/img/in-post/my_favorite_things/zhongyuemin.png" height="543" width="783"> 
+<img src="/img/in-post/my_favorite_things/zhongyuemin.jpg" height="543" width="783"> 
 
 **宝强系列：**    
 士兵突击：[点此观看](http://www.soku.com/nt/search/q_士兵突击)    
 我的兄弟叫顺溜：[点此观看](http://www.soku.com/nt/search/q_我的兄弟叫顺溜)    
-<img src="/img/in-post/my_favorite_things/shibingtuji.png" height="619" width="939">     
+<img src="/img/in-post/my_favorite_things/shibingtuji.jpg" height="619" width="939">     
 人民的名义：[百度云盘](https://pan.baidu.com/s/1jHDEnvK) 密码：8je6      
 <img src="/img/in-post/my_favorite_things/renmindemingyi.jpg" height="280" width="960"> 
 #### 美剧
@@ -144,7 +144,7 @@ V字仇杀记：[点此下载](http://www.rarbt.com/btzhong/bt/%E3%80%90rarbt.co
 权力的游戏：[点此下载](http://www.llduang.com/37822.html)    
 黑镜三季全集：[百度云盘](http://pan.baidu.com/s/1sldiuy5)  密码：jfz2        
 禁忌：[点此下载](http://www.llduang.com/72394.html)    
-<img src="/img/in-post/my_favorite_things/quanli_jinji.png" height="534" width="874">    
+<img src="/img/in-post/my_favorite_things/quanli_jinji.jpg" height="534" width="874">    
 ## 喜欢的网站
 这里介绍下平时比较喜欢上的网站，来个Top排行吧。
 
